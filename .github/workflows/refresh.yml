@@ -12,7 +12,9 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    # 120 min for the first full geocode (~3,000 fresh Nominatim calls at
+    # 1 req/sec). Subsequent weekly runs hit the cache and finish in 2-3 min.
+    timeout-minutes: 120
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
