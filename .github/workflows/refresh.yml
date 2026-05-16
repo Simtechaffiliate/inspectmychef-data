@@ -32,9 +32,13 @@ jobs:
       - name: Scrape CDPEHS
         env:
           HEADLESS: '1'
+          PYTHONUNBUFFERED: '1'
+          MAX_PAGES: '15'
         run: python scraper.py
 
       - name: Geocode addresses
+        env:
+          PYTHONUNBUFFERED: '1'
         run: python geocode_only.py
 
       - name: Commit refreshed data (if changed)
