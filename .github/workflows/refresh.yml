@@ -33,7 +33,7 @@ jobs:
         env:
           HEADLESS: '1'
           PYTHONUNBUFFERED: '1'
-          MAX_PAGES: '15'
+          SKIP_GEOCODE: '1'
         run: python scraper.py
 
       - name: Geocode addresses
