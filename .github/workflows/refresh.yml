@@ -2,8 +2,11 @@ name: Refresh Charlotte data
 
 on:
   schedule:
-    # Mondays at 08:00 UTC (03:00 EST, 04:00 EDT)
-    - cron: '0 8 * * 1'
+    # Every day at 08:00 UTC (03:00 EST, 04:00 EDT). Daily refresh keeps
+    # Mecklenburg inspection data fresh within 24h. After the first run
+    # populated the cache, daily runs hit ~99% cache and finish in ~3-5 min.
+    # GitHub Actions is free unlimited for public repos so cost is zero.
+    - cron: '0 8 * * *'
   workflow_dispatch:
 
 permissions:
@@ -12,8 +15,8 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    # 120 min for the first full geocode (~3,000 fresh Nominatim calls at
-    # 1 req/sec). Subsequent weekly runs hit the cache and finish in 2-3 min.
+    # 120 min upper bound. Steady-state daily runs use ~5 min;
+    # the buffer is here only for catastrophic Nominatim cache misses.
     timeout-minutes: 120
     steps:
       - name: Checkout repo
