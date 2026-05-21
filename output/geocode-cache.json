@@ -22182,5 +22182,13 @@
   "123 W Trade St, Charlotte, NC 28202": {
     "lat": 35.2274006,
     "lng": -80.8434571
+  },
+  "1001 Morehead Square Dr\u00a0Ste 100, Charlotte, NC 28203": {
+    "lat": null,
+    "lng": null
+  },
+  "3318 Wilkinson Bv, Charlotte, NC 28208": {
+    "lat": null,
+    "lng": null
   }
 }
