@@ -22190,5 +22190,13 @@
   "3318 Wilkinson Bv, Charlotte, NC 28208": {
     "lat": null,
     "lng": null
+  },
+  "130 Matthews Station St\u00a01-H, Matthews, NC 28105": {
+    "lat": null,
+    "lng": null
+  },
+  "6700 Phillips Place Ct, Charlotte, NC 28210": {
+    "lat": 35.1467119,
+    "lng": -80.8282918
   }
 }
