@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-05-22T16:54:25.668625+00:00",
+  "fetchedAt": "2026-05-23T12:00:54.642188+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
-  "count": 2947,
+  "count": 2946,
   "restaurants": [
     {
       "id": "us-mck-2060016152",
@@ -120,6 +120,63 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-20600110213",
+      "name": "HIGHLAND CREEK GOLF CLUB",
+      "address": "7101 Highland Creek Py, Charlotte, NC 28269",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-22",
+        "score": 96.0,
+        "grade": "A",
+        "gradeDate": "2026-05-22",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110068",
+      "name": "JERSEY MIKES # 3020 MATTHEWS",
+      "address": "1909 Matthews Township Py\u00a0Ste 100, Matthews, NC 28105",
+      "city": "Matthews",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-22",
+        "score": 95.0,
+        "grade": "A",
+        "gradeDate": "2026-05-22",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060017861",
+      "name": "MCDONALD'S RESTAURANT #32836",
+      "address": "14220 Boren St, Huntersville, NC 28078",
+      "city": "Huntersville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-22",
+        "score": 100.0,
+        "grade": "A",
+        "gradeDate": "2026-05-22",
+        "violations": []
+      },
+      "latitude": 35.4064458,
+      "longitude": -80.8655301,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-20600110863",
       "name": "MR GS",
       "address": "5027 Morris Field Dr, Charlotte, NC 28208",
@@ -139,6 +196,25 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-2060015034",
+      "name": "NORDSTROM'S E-BAR",
+      "address": "4400 Sharon Rd, Charlotte, NC 28211",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-22",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-05-22",
+        "violations": []
+      },
+      "latitude": 35.1529082,
+      "longitude": -80.8334511,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-20600110858",
       "name": "ROMEO & JULIET BRAZILIAN CAFE",
       "address": "1605 Galleria Bv\u00a0Unit 105, Charlotte, NC 28270",
@@ -149,6 +225,25 @@
       "latestInspection": {
         "inspectionDate": "2026-05-22",
         "score": 95.0,
+        "grade": "A",
+        "gradeDate": "2026-05-22",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060018458",
+      "name": "SMOOTHIE KING #1296",
+      "address": "3020 Prosperity Church Rd\u00a0Suite E, Charlotte, NC 28269",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-22",
+        "score": 97.0,
         "grade": "A",
         "gradeDate": "2026-05-22",
         "violations": []
@@ -174,6 +269,25 @@
       },
       "latitude": 35.070739,
       "longitude": -80.8422824,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060017243",
+      "name": "TACO BELL #27434",
+      "address": "9015 S Tryon St, Charlotte, NC 28273",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-22",
+        "score": 97.5,
+        "grade": "A",
+        "gradeDate": "2026-05-22",
+        "violations": []
+      },
+      "latitude": 35.1351131,
+      "longitude": -80.9383117,
       "officialUrl": null
     },
     {
@@ -32344,25 +32458,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060018029",
-      "name": "DUNKIN' DONUTS/BASKIN ROBBINS #340408",
-      "address": "709 S Kings Dr, Charlotte, NC 28204",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-13",
-        "score": 95.5,
-        "grade": "A",
-        "gradeDate": "2026-02-13",
-        "violations": []
-      },
-      "latitude": 35.2087136,
-      "longitude": -80.8355944,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110239",
       "name": "FIREBIRDS WOODFIRED GRILL #54",
       "address": "16641 Birkdale Commons Py\u00a0Ste B200, Huntersville, NC 28078",
@@ -32430,25 +32525,6 @@
       "latestInspection": {
         "inspectionDate": "2026-02-13",
         "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-02-13",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600110213",
-      "name": "HIGHLAND CREEK GOLF CLUB",
-      "address": "7101 Highland Creek Py, Charlotte, NC 28269",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-13",
-        "score": 97.5,
         "grade": "A",
         "gradeDate": "2026-02-13",
         "violations": []
@@ -36106,25 +36182,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060018101",
-      "name": "VIVA CHICKEN",
-      "address": "12206 Copper Wy, Charlotte, NC 28277",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-05",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-02-05",
-        "violations": []
-      },
-      "latitude": 35.070471,
-      "longitude": -80.8445126,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060017572",
       "name": "VIVA CHICKEN",
       "address": "1617 Elizabeth Av, Charlotte, NC 28204",
@@ -36141,6 +36198,25 @@
       },
       "latitude": 35.2134225,
       "longitude": -80.8260188,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060018101",
+      "name": "VIVA CHICKEN",
+      "address": "12206 Copper Wy, Charlotte, NC 28277",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-02-05",
+        "score": 97.0,
+        "grade": "A",
+        "gradeDate": "2026-02-05",
+        "violations": []
+      },
+      "latitude": 35.070471,
+      "longitude": -80.8445126,
       "officialUrl": null
     },
     {
@@ -41993,25 +42069,6 @@
       },
       "latitude": 35.450053,
       "longitude": -80.8265048,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060017243",
-      "name": "TACO BELL #27434",
-      "address": "9015 S Tryon St, Charlotte, NC 28273",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-01-14",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-01-14",
-        "violations": []
-      },
-      "latitude": 35.1351131,
-      "longitude": -80.9383117,
       "officialUrl": null
     },
     {
@@ -49615,44 +49672,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110068",
-      "name": "JERSEY MIKES # 3020 MATTHEWS",
-      "address": "1909 Matthews Township Py\u00a0Ste 100, Matthews, NC 28105",
-      "city": "Matthews",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-12-01",
-        "score": 97.5,
-        "grade": "A",
-        "gradeDate": "2025-12-01",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060017861",
-      "name": "MCDONALD'S RESTAURANT #32836",
-      "address": "14220 Boren St, Huntersville, NC 28078",
-      "city": "Huntersville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-12-01",
-        "score": 100.0,
-        "grade": "A",
-        "gradeDate": "2025-12-01",
-        "violations": []
-      },
-      "latitude": 35.4064458,
-      "longitude": -80.8655301,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110800",
       "name": "STK STEAKHOUSE",
       "address": "201 S College St\u00a0Ste 010, Charlotte, NC 28202",
@@ -50451,25 +50470,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110093",
-      "name": "HAMPTON INN & SUITES",
-      "address": "6220 Caden Rd, Charlotte, NC 28278",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-11-19",
-        "score": 98.0,
-        "grade": "A",
-        "gradeDate": "2025-11-19",
-        "violations": []
-      },
-      "latitude": 35.1616492,
-      "longitude": -80.9739616,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111074",
       "name": "HAMPTON INN & SUITES",
       "address": "401 Towne Centre Bv, Pineville, NC 28134",
@@ -50486,6 +50486,25 @@
       },
       "latitude": null,
       "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110093",
+      "name": "HAMPTON INN & SUITES",
+      "address": "6220 Caden Rd, Charlotte, NC 28278",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2025-11-19",
+        "score": 98.0,
+        "grade": "A",
+        "gradeDate": "2025-11-19",
+        "violations": []
+      },
+      "latitude": 35.1616492,
+      "longitude": -80.9739616,
       "officialUrl": null
     },
     {
@@ -54403,25 +54422,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060015034",
-      "name": "NORDSTROM'S E-BAR",
-      "address": "4400 Sharon Rd, Charlotte, NC 28211",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-07-29",
-        "score": 98.0,
-        "grade": "A",
-        "gradeDate": "2025-07-29",
-        "violations": []
-      },
-      "latitude": 35.1529082,
-      "longitude": -80.8334511,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060015416",
       "name": "PANERA BREAD #1043",
       "address": "9321 J W Clay Bv, Charlotte, NC 28262",
@@ -54983,25 +54983,6 @@
       "latestInspection": {
         "inspectionDate": "2025-07-08",
         "score": 98.0,
-        "grade": "A",
-        "gradeDate": "2025-07-08",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060018458",
-      "name": "SMOOTHIE KING #1296",
-      "address": "3020 Prosperity Church Rd\u00a0Suite E, Charlotte, NC 28269",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-07-08",
-        "score": 97.0,
         "grade": "A",
         "gradeDate": "2025-07-08",
         "violations": []
@@ -55999,5 +55980,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-05-22T16:54:36.416614+00:00"
+  "geocodedAt": "2026-05-23T12:01:02.390607+00:00"
 }
