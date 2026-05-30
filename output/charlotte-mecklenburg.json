@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-29T18:36:25.070522+00:00",
+  "fetchedAt": "2026-05-30T12:15:42.281378+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
@@ -63,6 +63,25 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-2060019786",
+      "name": "DISTRICT 57",
+      "address": "1526 Alleghany St\u00a0Suite B, Charlotte, NC 28208",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-29",
+        "score": 100.0,
+        "grade": "A",
+        "gradeDate": "2026-05-29",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-2060018422",
       "name": "DUNKIN DONUTS #352994",
       "address": "19116 West Catawba Av\u00a0Suite C, Cornelius, NC 28031",
@@ -98,6 +117,25 @@
       },
       "latitude": 35.0599201,
       "longitude": -80.8400384,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019751",
+      "name": "GOODYEAR HOUSE, THE",
+      "address": "3032 N Davidson St, Charlotte, NC 28205",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-29",
+        "score": 97.5,
+        "grade": "A",
+        "gradeDate": "2026-05-29",
+        "violations": []
+      },
+      "latitude": 35.2459746,
+      "longitude": -80.8070782,
       "officialUrl": null
     },
     {
@@ -139,6 +177,44 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-20600111054",
+      "name": "HARRIETS HAMBURGERS #2",
+      "address": "15109 Bowl St, Charlotte, NC 28277",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-29",
+        "score": 99.0,
+        "grade": "A",
+        "gradeDate": "2026-05-29",
+        "violations": []
+      },
+      "latitude": 35.0573137,
+      "longitude": -80.8455919,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111521",
+      "name": "KARMALE CAFE",
+      "address": "5701 Executive Center Dr\u00a0Ste 100, Charlotte, NC 28212",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-29",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-05-29",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-20600110813",
       "name": "KRAZY CURRY",
       "address": "9101 Pineville-Matthews Rd\u00a0Ste H, Pineville, NC 28134",
@@ -158,6 +234,44 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-20600110230",
+      "name": "MCDONALDS",
+      "address": "8038 S Tryon St, Charlotte, NC 28273",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-29",
+        "score": 99.0,
+        "grade": "A",
+        "gradeDate": "2026-05-29",
+        "violations": []
+      },
+      "latitude": 35.1439109,
+      "longitude": -80.9299062,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111244",
+      "name": "MS. DIDI'S CARRIBEAN KITCHEN",
+      "address": "2120 Kilborne Dr, Charlotte, NC 28205",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-29",
+        "score": 97.0,
+        "grade": "A",
+        "gradeDate": "2026-05-29",
+        "violations": []
+      },
+      "latitude": 35.227138,
+      "longitude": -80.7742631,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-2060019559",
       "name": "NOBLE SMOKE",
       "address": "2216 Freedom Dr, Charlotte, NC 28208",
@@ -174,6 +288,82 @@
       },
       "latitude": 35.2339341,
       "longitude": -80.8768896,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019775",
+      "name": "OH MY SOUL",
+      "address": "3046 N Davidson St, Charlotte, NC 28205",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-29",
+        "score": 96.0,
+        "grade": "A",
+        "gradeDate": "2026-05-29",
+        "violations": []
+      },
+      "latitude": 35.2462509,
+      "longitude": -80.8066655,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110944",
+      "name": "RIVER RUN CC WILDCAT",
+      "address": "19125 River Falls Dr, Davidson, NC 28036",
+      "city": "Davidson",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-29",
+        "score": 94.0,
+        "grade": "A",
+        "gradeDate": "2026-05-29",
+        "violations": []
+      },
+      "latitude": 35.4688723,
+      "longitude": -80.8044917,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110991",
+      "name": "ROZ GRILL",
+      "address": "8200 Providence Rd\u00a0Ste 200-300, Charlotte, NC 28277",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-29",
+        "score": 93.5,
+        "grade": "A",
+        "gradeDate": "2026-05-29",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060018783",
+      "name": "THE RYAL AT BALLANTYNE RESORT",
+      "address": "10000 Ballantyne Commons Py, Charlotte, NC 28277",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-05-29",
+        "score": 99.5,
+        "grade": "A",
+        "gradeDate": "2026-05-29",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
       "officialUrl": null
     },
     {
@@ -35004,25 +35194,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060019775",
-      "name": "OH MY SOUL",
-      "address": "3046 N Davidson St, Charlotte, NC 28205",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-11",
-        "score": 96.0,
-        "grade": "A",
-        "gradeDate": "2026-02-11",
-        "violations": []
-      },
-      "latitude": 35.2462509,
-      "longitude": -80.8066655,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019764",
       "name": "OSITOS TACOS AND TORTAS",
       "address": "20700 N Main St, Cornelius, NC 28027",
@@ -39355,25 +39526,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110944",
-      "name": "RIVER RUN CC WILDCAT",
-      "address": "19125 River Falls Dr, Davidson, NC 28036",
-      "city": "Davidson",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-01-29",
-        "score": 95.5,
-        "grade": "A",
-        "gradeDate": "2026-01-29",
-        "violations": []
-      },
-      "latitude": 35.4688723,
-      "longitude": -80.8044917,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060016064",
       "name": "SAFFRON INDIAN CUISINE",
       "address": "2135 Ayrsley Town Bv\u00a0Suite B, Charlotte, NC 28273",
@@ -40856,25 +41008,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600111244",
-      "name": "MS. DIDI'S CARRIBEAN KITCHEN",
-      "address": "2120 Kilborne Dr, Charlotte, NC 28205",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-01-22",
-        "score": 95.5,
-        "grade": "A",
-        "gradeDate": "2026-01-22",
-        "violations": []
-      },
-      "latitude": 35.227138,
-      "longitude": -80.7742631,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060017915",
       "name": "PARK ROAD SODA SHOPPE",
       "address": "4121 Park Rd, Charlotte, NC 28209",
@@ -41309,25 +41442,6 @@
       },
       "latitude": 35.226844,
       "longitude": -80.841883,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019751",
-      "name": "GOODYEAR HOUSE, THE",
-      "address": "3032 N Davidson St, Charlotte, NC 28205",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-01-21",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-01-21",
-        "violations": []
-      },
-      "latitude": 35.2459746,
-      "longitude": -80.8070782,
       "officialUrl": null
     },
     {
@@ -43706,25 +43820,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600111521",
-      "name": "KARMALE CAFE",
-      "address": "5701 Executive Center Dr\u00a0Ste 100, Charlotte, NC 28212",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-01-09",
-        "score": 99.5,
-        "grade": "A",
-        "gradeDate": "2026-01-09",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111443",
       "name": "KUYA OMAKASE 2.0",
       "address": "101 N Tryon St\u00a0Ste 105-S, Charlotte, NC 28202",
@@ -44862,25 +44957,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600111054",
-      "name": "HARRIETS HAMBURGERS #2",
-      "address": "15109 Bowl St, Charlotte, NC 28277",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-01-06",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-01-06",
-        "violations": []
-      },
-      "latitude": 35.0573137,
-      "longitude": -80.8455919,
       "officialUrl": null
     },
     {
@@ -48304,25 +48380,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060018783",
-      "name": "THE RYAL AT BALLANTYNE RESORT",
-      "address": "10000 Ballantyne Commons Py, Charlotte, NC 28277",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-12-11",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2025-12-11",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060017995",
       "name": "TRADITION GOLF CLUB, THE",
       "address": "3800 Prosperity Church Rd, Charlotte, NC 28269",
@@ -51078,25 +51135,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110991",
-      "name": "ROZ GRILL",
-      "address": "8200 Providence Rd\u00a0Ste 200-300, Charlotte, NC 28277",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-11-17",
-        "score": 97.5,
-        "grade": "A",
-        "gradeDate": "2025-11-17",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060017965",
       "name": "ZAXBY'S #1114",
       "address": "8334 Ikea Bv, Charlotte, NC 28262",
@@ -52614,25 +52652,6 @@
       },
       "latitude": 35.176672,
       "longitude": -80.797869,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600110230",
-      "name": "MCDONALDS",
-      "address": "8038 S Tryon St, Charlotte, NC 28273",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-09-30",
-        "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2025-09-30",
-        "violations": []
-      },
-      "latitude": 35.1439109,
-      "longitude": -80.9299062,
       "officialUrl": null
     },
     {
@@ -54232,25 +54251,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060019786",
-      "name": "DISTRICT 57",
-      "address": "1526 Alleghany St\u00a0Suite B, Charlotte, NC 28208",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-08-01",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2025-08-01",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111176",
       "name": "THE FOUR",
       "address": "16508 Northcross Dr, Huntersville, NC 28078",
@@ -55752,5 +55752,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-05-29T18:36:32.491632+00:00"
+  "geocodedAt": "2026-05-30T12:15:50.293667+00:00"
 }
