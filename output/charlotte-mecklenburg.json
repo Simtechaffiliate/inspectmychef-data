@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-30T12:15:42.281378+00:00",
+  "fetchedAt": "2026-05-31T12:31:44.824666+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
@@ -37588,25 +37588,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060018101",
-      "name": "VIVA CHICKEN",
-      "address": "12206 Copper Wy, Charlotte, NC 28277",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-05",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-02-05",
-        "violations": []
-      },
-      "latitude": 35.070471,
-      "longitude": -80.8445126,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060017572",
       "name": "VIVA CHICKEN",
       "address": "1617 Elizabeth Av, Charlotte, NC 28204",
@@ -37623,6 +37604,25 @@
       },
       "latitude": 35.2134225,
       "longitude": -80.8260188,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060018101",
+      "name": "VIVA CHICKEN",
+      "address": "12206 Copper Wy, Charlotte, NC 28277",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-02-05",
+        "score": 97.0,
+        "grade": "A",
+        "gradeDate": "2026-02-05",
+        "violations": []
+      },
+      "latitude": 35.070471,
+      "longitude": -80.8445126,
       "officialUrl": null
     },
     {
@@ -55752,5 +55752,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-05-30T12:15:50.293667+00:00"
+  "geocodedAt": "2026-05-31T12:31:52.324410+00:00"
 }
