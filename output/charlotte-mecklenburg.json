@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-06-05T17:15:06.052060+00:00",
+  "fetchedAt": "2026-06-06T12:22:11.845598+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
-  "count": 2933,
+  "count": 2936,
   "restaurants": [
     {
       "id": "us-mck-20600110558",
@@ -63,6 +63,63 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-20600111525",
+      "name": "CHILI WILLIS MEXICAN CANTINA",
+      "address": "9615 Bailey Rd, Cornelius, NC 28031",
+      "city": "Cornelius",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-05",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-06-05",
+        "violations": []
+      },
+      "latitude": 35.4583092,
+      "longitude": -80.8677718,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019749",
+      "name": "ESTAMPA GAUCHA",
+      "address": "401 E Martin Luther King Jr Bv\u00a0Suite 306, Charlotte, NC 28202",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-05",
+        "score": 97.0,
+        "grade": "A",
+        "gradeDate": "2026-06-05",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060015789",
+      "name": "FINALE PIZZA",
+      "address": "15025 Lancaster Hy, Charlotte, NC 28277",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-05",
+        "score": 99.5,
+        "grade": "A",
+        "gradeDate": "2026-06-05",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-2060019359",
       "name": "GO GO EMPANADAS",
       "address": "11229 E Independence Bv, Matthews, NC 28105",
@@ -73,6 +130,120 @@
       "latestInspection": {
         "inspectionDate": "2026-06-05",
         "score": 92.5,
+        "grade": "A",
+        "gradeDate": "2026-06-05",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111648",
+      "name": "HONEY PIES BBQ & SMOKEHOUSE",
+      "address": "4400 Sunset Rd, Charlotte, NC 28216",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-05",
+        "score": 96.0,
+        "grade": "A",
+        "gradeDate": "2026-06-05",
+        "violations": []
+      },
+      "latitude": 35.306176,
+      "longitude": -80.854554,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111658",
+      "name": "INIZIO PIZZA NAPOLETANA",
+      "address": "282 S. Sharon Amity Rd, Charlotte, NC 28211",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-05",
+        "score": 95.0,
+        "grade": "A",
+        "gradeDate": "2026-06-05",
+        "violations": []
+      },
+      "latitude": 35.1748651,
+      "longitude": -80.8015965,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019518",
+      "name": "MCDONALDS #38724",
+      "address": "2603 Sam Wilson Rd, Charlotte, NC 28214",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-05",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-06-05",
+        "violations": []
+      },
+      "latitude": 35.255368,
+      "longitude": -80.9807359,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019862",
+      "name": "NORTHSTONE COUNTRY CLUB KITCHEN",
+      "address": "15801 Northstone Dr, Huntersville, NC 28078",
+      "city": "Huntersville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-05",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-06-05",
+        "violations": []
+      },
+      "latitude": 35.4313338,
+      "longitude": -80.8182185,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110747",
+      "name": "PANZU BREWERY",
+      "address": "7251 Matthews-Mint Hill Rd, Mint Hill, NC 28227",
+      "city": "Mint Hill",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-05",
+        "score": 97.0,
+        "grade": "A",
+        "gradeDate": "2026-06-05",
+        "violations": []
+      },
+      "latitude": 35.1751668,
+      "longitude": -80.6552692,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060016599",
+      "name": "PINEVILLE ICE HOUSE",
+      "address": "400 Towne Centre Bv, Pineville, NC 28134",
+      "city": "Pineville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-05",
+        "score": 97.0,
         "grade": "A",
         "gradeDate": "2026-06-05",
         "violations": []
@@ -136,6 +307,25 @@
       },
       "latitude": null,
       "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110480",
+      "name": "THE GARRISON",
+      "address": "314 Main St, Pineville, NC 28134",
+      "city": "Pineville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-05",
+        "score": 95.5,
+        "grade": "A",
+        "gradeDate": "2026-06-05",
+        "violations": []
+      },
+      "latitude": 35.0858482,
+      "longitude": -80.8905043,
       "officialUrl": null
     },
     {
@@ -29893,25 +30083,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110480",
-      "name": "THE GARRISON",
-      "address": "314 Main St, Pineville, NC 28134",
-      "city": "Pineville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-27",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-02-27",
-        "violations": []
-      },
-      "latitude": 35.0858482,
-      "longitude": -80.8905043,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060018183",
       "name": "TOKYO ONE EXPRESS",
       "address": "8634 Camfield St\u00a0Suite B, Charlotte, NC 28277",
@@ -32078,25 +32249,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060019862",
-      "name": "NORTHSTONE COUNTRY CLUB KITCHEN",
-      "address": "15801 Northstone Dr, Huntersville, NC 28078",
-      "city": "Huntersville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-24",
-        "score": 97.5,
-        "grade": "A",
-        "gradeDate": "2026-02-24",
-        "violations": []
-      },
-      "latitude": 35.4313338,
-      "longitude": -80.8182185,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110864",
       "name": "ONE SIXTY KITCHEN & COCKTAILS",
       "address": "4847 Shopton Rd\u00a0Ste A & B, Charlotte, NC 28289",
@@ -33038,25 +33190,6 @@
       "latestInspection": {
         "inspectionDate": "2026-02-20",
         "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-02-20",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019749",
-      "name": "ESTAMPA GAUCHA",
-      "address": "401 E Martin Luther King Jr Bv\u00a0Suite 306, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-20",
-        "score": 96.5,
         "grade": "A",
         "gradeDate": "2026-02-20",
         "violations": []
@@ -36144,25 +36277,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110747",
-      "name": "PANZU BREWERY",
-      "address": "7251 Matthews-Mint Hill Rd, Mint Hill, NC 28227",
-      "city": "Mint Hill",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-13",
-        "score": 95.5,
-        "grade": "A",
-        "gradeDate": "2026-02-13",
-        "violations": []
-      },
-      "latitude": 35.1751668,
-      "longitude": -80.6552692,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110817",
       "name": "PARR CENTER KITCHEN(CPCC CAMPUS)",
       "address": "1201 Elizabeth Av, Charlotte, NC 28204",
@@ -39241,25 +39355,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060017572",
-      "name": "VIVA CHICKEN",
-      "address": "1617 Elizabeth Av, Charlotte, NC 28204",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-05",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-02-05",
-        "violations": []
-      },
-      "latitude": 35.2134225,
-      "longitude": -80.8260188,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060018101",
       "name": "VIVA CHICKEN",
       "address": "12206 Copper Wy, Charlotte, NC 28277",
@@ -39276,6 +39371,25 @@
       },
       "latitude": 35.070471,
       "longitude": -80.8445126,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060017572",
+      "name": "VIVA CHICKEN",
+      "address": "1617 Elizabeth Av, Charlotte, NC 28204",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-02-05",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-02-05",
+        "violations": []
+      },
+      "latitude": 35.2134225,
+      "longitude": -80.8260188,
       "officialUrl": null
     },
     {
@@ -48152,25 +48266,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060015789",
-      "name": "FINALE PIZZA",
-      "address": "15025 Lancaster Hy, Charlotte, NC 28277",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-12-17",
-        "score": 99.5,
-        "grade": "A",
-        "gradeDate": "2025-12-17",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111321",
       "name": "FIRST WATCH #6067",
       "address": "16641 Birkdale Commons Py\u00a0Suite B250, Huntersville, NC 28078",
@@ -52579,25 +52674,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060016599",
-      "name": "PINEVILLE ICE HOUSE",
-      "address": "400 Towne Centre Bv, Pineville, NC 28134",
-      "city": "Pineville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-10-14",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2025-10-14",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060011573",
       "name": "CAPTAIN D'S #404",
       "address": "3623 N Sharon Amity Rd, Charlotte, NC 28205",
@@ -53203,25 +53279,6 @@
       },
       "latitude": 35.2456545,
       "longitude": -80.8989718,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019518",
-      "name": "MCDONALDS #38724",
-      "address": "2603 Sam Wilson Rd, Charlotte, NC 28214",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-09-09",
-        "score": 100.0,
-        "grade": "A",
-        "gradeDate": "2025-09-09",
-        "violations": []
-      },
-      "latitude": 35.255368,
-      "longitude": -80.9807359,
       "officialUrl": null
     },
     {
@@ -55733,5 +55790,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-06-05T17:15:17.093459+00:00"
+  "geocodedAt": "2026-06-06T12:22:24.413793+00:00"
 }
