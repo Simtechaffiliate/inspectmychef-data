@@ -22238,5 +22238,17 @@
   "282 S. Sharon Amity Rd, Charlotte, NC 28211": {
     "lat": 35.1748651,
     "lng": -80.8015965
+  },
+  "7146 E Independence Blvd\u00a0Suite F, Charlotte, NC 28227": {
+    "lat": null,
+    "lng": null
+  },
+  "1711 Commonwealth Ave\u00a0Ste #170, Charlotte, NC 28205": {
+    "lat": null,
+    "lng": null
+  },
+  "10610 Centrum Pkwy Ste I, Pineville, NC 28134": {
+    "lat": null,
+    "lng": null
   }
 }
