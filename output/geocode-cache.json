@@ -22250,5 +22250,13 @@
   "10610 Centrum Pkwy Ste I, Pineville, NC 28134": {
     "lat": null,
     "lng": null
+  },
+  "6619 Sardis Rd, Charlotte, NC 28270": {
+    "lat": 35.1508596,
+    "lng": -80.7723224
+  },
+  "1826 Windsore Square Dr, Matthews, NC 28105": {
+    "lat": null,
+    "lng": null
   }
 }
