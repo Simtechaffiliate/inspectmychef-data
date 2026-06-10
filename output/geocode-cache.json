@@ -22258,5 +22258,17 @@
   "1826 Windsore Square Dr, Matthews, NC 28105": {
     "lat": null,
     "lng": null
+  },
+  "5007 Providence Rd\u00a0#102, Charlotte, NC 28226": {
+    "lat": null,
+    "lng": null
+  },
+  "222 Church St\u00a0Ste 100, Charlotte, NC 28208": {
+    "lat": null,
+    "lng": null
+  },
+  "137 Brevard Ct, Charlotte, NC 28202": {
+    "lat": 35.2258017,
+    "lng": -80.846783
   }
 }
