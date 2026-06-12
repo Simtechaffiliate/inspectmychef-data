@@ -22274,5 +22274,21 @@
   "2114 Freeman Park Dr\u00a0Ste 115, Charlotte, NC 28273": {
     "lat": null,
     "lng": null
+  },
+  "1412 Providence Rd, Charlotte, NC 28207": {
+    "lat": 35.1876894,
+    "lng": -80.8234337
+  },
+  "11315 E Independenceblvd, Matthews, NC 28105": {
+    "lat": null,
+    "lng": null
+  },
+  "6011 Albemarle Rd, Charlotte, NC 28212": {
+    "lat": 35.2036489,
+    "lng": -80.7430501
+  },
+  "3701 Statesville Av, Charlotte, NC 28206": {
+    "lat": 35.26866,
+    "lng": -80.837661
   }
 }
