@@ -22290,5 +22290,9 @@
   "3701 Statesville Av, Charlotte, NC 28206": {
     "lat": 35.26866,
     "lng": -80.837661
+  },
+  "7808 Rea Rd\u00a0Ste E, Charlotte, NC 28277": {
+    "lat": null,
+    "lng": null
   }
 }
