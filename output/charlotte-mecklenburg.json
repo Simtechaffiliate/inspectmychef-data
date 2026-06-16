@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T20:47:02.896248+00:00",
+  "fetchedAt": "2026-06-16T13:12:43.068759+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
@@ -79,6 +79,25 @@
       },
       "latitude": 35.179592,
       "longitude": -80.885124,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110273",
+      "name": "CAVA METROPOLITAN",
+      "address": "1055 Metropolitan Av\u00a0Ste 11-, Charlotte, NC 28204",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-15",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-06-15",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
       "officialUrl": null
     },
     {
@@ -348,6 +367,25 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-2060018409",
+      "name": "MOO & BREW",
+      "address": "1300 Central Av, Charlotte, NC 28205",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-15",
+        "score": 96.5,
+        "grade": "A",
+        "gradeDate": "2026-06-15",
+        "violations": []
+      },
+      "latitude": 35.220721,
+      "longitude": -80.8169436,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-20600110324",
       "name": "MOON THAI &JAPANESE CUISINE",
       "address": "4425 Sharon Rd\u00a0Ste 180, Charlotte, NC 28211",
@@ -443,6 +481,25 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-2060017035",
+      "name": "REID'S FINE FOODS",
+      "address": "2823 Selwyn Av\u00a0Ste A, Charlotte, NC 28209",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-15",
+        "score": 96.5,
+        "grade": "A",
+        "gradeDate": "2026-06-15",
+        "violations": []
+      },
+      "latitude": 35.1743016,
+      "longitude": -80.8396318,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-2060019924",
       "name": "SILVERLAKE RAMEN",
       "address": "2041 South Bv\u00a0Ste 107, Charlotte, NC 28203",
@@ -500,6 +557,25 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-20600111347",
+      "name": "SPAGHETT",
+      "address": "224 W Tenth St, Charlotte, NC 28202",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-15",
+        "score": 95.0,
+        "grade": "A",
+        "gradeDate": "2026-06-15",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-2060019213",
       "name": "STEADY EDDYS PUMPHOUSE",
       "address": "2216 E John St, Matthews, NC 28105",
@@ -535,6 +611,25 @@
       },
       "latitude": 35.1786245,
       "longitude": -80.8928878,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019033",
+      "name": "ZINICOLA",
+      "address": "14835 Ballantyne Village Wy\u00a0Ste 140, Charlotte, NC 28277",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-15",
+        "score": 94.5,
+        "grade": "A",
+        "gradeDate": "2026-06-15",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
       "officialUrl": null
     },
     {
@@ -19424,9 +19519,9 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600111590",
+      "id": "us-mck-20600111603",
       "name": "SABOR LATIN STREET GRILL",
-      "address": "1616 Camden Rd\u00a0Suite 100, Charlotte, NC 28203",
+      "address": "3205 N. Davidson St. Unit 105, Charlotte, NC 28205",
       "city": "Charlotte",
       "country": "US",
       "region": "Charlotte",
@@ -19443,9 +19538,9 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600111603",
+      "id": "us-mck-20600111590",
       "name": "SABOR LATIN STREET GRILL",
-      "address": "3205 N. Davidson St. Unit 105, Charlotte, NC 28205",
+      "address": "1616 Camden Rd\u00a0Suite 100, Charlotte, NC 28203",
       "city": "Charlotte",
       "country": "US",
       "region": "Charlotte",
@@ -34510,25 +34605,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060018409",
-      "name": "MOO & BREW",
-      "address": "1300 Central Av, Charlotte, NC 28205",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-26",
-        "score": 95.5,
-        "grade": "A",
-        "gradeDate": "2026-02-26",
-        "violations": []
-      },
-      "latitude": 35.220721,
-      "longitude": -80.8169436,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060018657",
       "name": "PHO NGON",
       "address": "2215 Ayrsley Town Bv\u00a0Suite D, Charlotte, NC 28273",
@@ -35818,25 +35894,6 @@
       },
       "latitude": 35.1778323,
       "longitude": -80.7995817,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060017035",
-      "name": "REID'S FINE FOODS",
-      "address": "2823 Selwyn Av\u00a0Ste A, Charlotte, NC 28209",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-24",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-02-24",
-        "violations": []
-      },
-      "latitude": 35.1743016,
-      "longitude": -80.8396318,
       "officialUrl": null
     },
     {
@@ -38459,25 +38516,6 @@
       },
       "latitude": 35.1940115,
       "longitude": -80.8753651,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019033",
-      "name": "ZINICOLA",
-      "address": "14835 Ballantyne Village Wy\u00a0Ste 140, Charlotte, NC 28277",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-17",
-        "score": 93.5,
-        "grade": "A",
-        "gradeDate": "2026-02-17",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
       "officialUrl": null
     },
     {
@@ -46328,25 +46366,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600111347",
-      "name": "SPAGHETT",
-      "address": "224 W Tenth St, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-01-14",
-        "score": 98.0,
-        "grade": "A",
-        "gradeDate": "2026-01-14",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110965",
       "name": "SYMPHONY PARK",
       "address": "12221 Sam Furr Rd, Huntersville, NC 28078",
@@ -49878,25 +49897,6 @@
       },
       "latitude": 35.1180189,
       "longitude": -80.7053588,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600110273",
-      "name": "CAVA METROPOLITAN",
-      "address": "1055 Metropolitan Av\u00a0Ste 11-, Charlotte, NC 28204",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-12-15",
-        "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2025-12-15",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
       "officialUrl": null
     },
     {
@@ -55980,5 +55980,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-06-15T20:47:12.487910+00:00"
+  "geocodedAt": "2026-06-16T13:12:51.077328+00:00"
 }
