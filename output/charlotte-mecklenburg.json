@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-21T11:33:38.378731+00:00",
+  "fetchedAt": "2026-06-22T13:52:46.802050+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
@@ -63,6 +63,25 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-2060018746",
+      "name": "CARMELLA'S PIZZA GRILL",
+      "address": "1513 Montford Dr, Charlotte, NC 28209",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-18",
+        "score": 94.5,
+        "grade": "A",
+        "gradeDate": "2026-06-18",
+        "violations": []
+      },
+      "latitude": 35.1708017,
+      "longitude": -80.8501091,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-2060016144",
       "name": "CARNEGIE CAFETERIA",
       "address": "8500 Andrew Carnegie Bv, Charlotte, NC 28262",
@@ -111,6 +130,25 @@
       "latestInspection": {
         "inspectionDate": "2026-06-18",
         "score": 96.0,
+        "grade": "A",
+        "gradeDate": "2026-06-18",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060017761",
+      "name": "CHUB'Z FAMOUS CHILIBURGERS AND FRIES",
+      "address": "200 W Woodlawn Rd\u00a0Suite A, Charlotte, NC 28217",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-18",
+        "score": 99.0,
         "grade": "A",
         "gradeDate": "2026-06-18",
         "violations": []
@@ -345,6 +383,25 @@
       },
       "latitude": null,
       "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019841",
+      "name": "RH ROOFTOP RESTAURANT",
+      "address": "6903 Phillips Place Ct, Charlotte, NC 28210",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-06-18",
+        "score": 94.5,
+        "grade": "A",
+        "gradeDate": "2026-06-18",
+        "violations": []
+      },
+      "latitude": 35.1460403,
+      "longitude": -80.8251904,
       "officialUrl": null
     },
     {
@@ -36030,25 +36087,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060019841",
-      "name": "RH ROOFTOP RESTAURANT",
-      "address": "6903 Phillips Place Ct, Charlotte, NC 28210",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-27",
-        "score": 96.0,
-        "grade": "A",
-        "gradeDate": "2026-02-27",
-        "violations": []
-      },
-      "latitude": 35.1460403,
-      "longitude": -80.8251904,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110638",
       "name": "RICEBLOSSOM",
       "address": "8418 Park Rd, Charlotte, NC 28210",
@@ -39773,25 +39811,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060017761",
-      "name": "CHUB'Z FAMOUS CHILIBURGERS AND FRIES",
-      "address": "200 W Woodlawn Rd\u00a0Suite A, Charlotte, NC 28217",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-17",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-02-17",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060018415",
       "name": "CO",
       "address": "4201 Park Rd, Charlotte, NC 28209",
@@ -43228,25 +43247,6 @@
       },
       "latitude": 35.4446906,
       "longitude": -80.878582,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060018746",
-      "name": "CARMELLA'S PIZZA GRILL",
-      "address": "1513 Montford Dr, Charlotte, NC 28209",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-04",
-        "score": 91.5,
-        "grade": "A",
-        "gradeDate": "2026-02-04",
-        "violations": []
-      },
-      "latitude": 35.1708017,
-      "longitude": -80.8501091,
       "officialUrl": null
     },
     {
@@ -55942,5 +55942,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-06-21T11:33:46.094710+00:00"
+  "geocodedAt": "2026-06-22T13:52:54.764623+00:00"
 }
