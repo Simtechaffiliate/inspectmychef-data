@@ -22310,5 +22310,17 @@
   "1521 Montford Dr, Charlotte, NC 28209": {
     "lat": 35.1709036,
     "lng": -80.8497069
+  },
+  "4203 Park Rd, Charlotte, NC 28209": {
+    "lat": 35.1742394,
+    "lng": -80.8496502
+  },
+  "214 N Tryon St\u00a0Ste 1, Charlotte, NC 28208": {
+    "lat": null,
+    "lng": null
+  },
+  "2130 E Arbors Dr, Charlotte, NC 28262": {
+    "lat": 35.3380826,
+    "lng": -80.7573722
   }
 }
