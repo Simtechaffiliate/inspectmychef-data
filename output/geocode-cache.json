@@ -22330,5 +22330,9 @@
   "111 E Carson Bv\u00a0Ste 5, Charlotte, NC 28203": {
     "lat": null,
     "lng": null
+  },
+  "10310 Wilmington St, Huntersville, NC 28078": {
+    "lat": 35.4112604,
+    "lng": -80.8559724
   }
 }
