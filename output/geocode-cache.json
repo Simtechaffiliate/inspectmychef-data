@@ -22334,5 +22334,9 @@
   "10310 Wilmington St, Huntersville, NC 28078": {
     "lat": 35.4112604,
     "lng": -80.8559724
+  },
+  "3509 David Cox Rd\u00a0Ste A-B, Charlotte, NC 28269": {
+    "lat": null,
+    "lng": null
   }
 }
