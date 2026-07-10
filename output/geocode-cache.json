@@ -22338,5 +22338,13 @@
   "3509 David Cox Rd\u00a0Ste A-B, Charlotte, NC 28269": {
     "lat": null,
     "lng": null
+  },
+  "201 Griffith St, Charlotte, NC 28036": {
+    "lat": 35.2033608,
+    "lng": -80.8757187
+  },
+  "10709 Mcmullen Creek Py, Pineville, NC 28226": {
+    "lat": null,
+    "lng": null
   }
 }
