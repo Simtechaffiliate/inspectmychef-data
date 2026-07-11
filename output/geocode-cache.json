@@ -22346,5 +22346,21 @@
   "10709 Mcmullen Creek Py, Pineville, NC 28226": {
     "lat": null,
     "lng": null
+  },
+  "13704 Grand Palisades Pkwy, Charlotte, NC 28278": {
+    "lat": 35.0723545,
+    "lng": -81.0355767
+  },
+  "2736 Freedom Dr\u00a0Suite B, Charlotte, NC 28208": {
+    "lat": null,
+    "lng": null
+  },
+  "6129 The Plaza, Charlotte, NC 28215": {
+    "lat": 35.2483602,
+    "lng": -80.7516417
+  },
+  "440 E Mccullough Dr\u00a0Suite 123, Charlotte, NC 28262": {
+    "lat": null,
+    "lng": null
   }
 }
