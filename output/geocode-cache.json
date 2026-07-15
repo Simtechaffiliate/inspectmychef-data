@@ -22366,5 +22366,13 @@
   "2908 Oak Lake Bv\u00a0Ste 102, Charlotte, NC 28208": {
     "lat": null,
     "lng": null
+  },
+  "20609 Torrence Chapel Rd., Cornelius, NC 28031": {
+    "lat": 35.4842124,
+    "lng": -80.8770834
+  },
+  "8150 Mt Holly-Huntersville Rd, Charlotte, NC 28216": {
+    "lat": 35.3458117,
+    "lng": -80.8872346
   }
 }
