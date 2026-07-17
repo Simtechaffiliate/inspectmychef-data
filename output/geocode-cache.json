@@ -22382,5 +22382,17 @@
   "5332 Docia Crossing Rd\u00a0Ste A, Charlotte, NC 28269": {
     "lat": null,
     "lng": null
+  },
+  "9923 Sandy Rock Pl, Charlotte, NC 28277": {
+    "lat": 35.0510091,
+    "lng": -80.7726646
+  },
+  "8829 E Wt Harris Bv\u00a0Suite 107, Charlotte, NC 28227": {
+    "lat": null,
+    "lng": null
+  },
+  "1826 Windsor Square Dr, Matthews, NC 28105": {
+    "lat": 35.1342461,
+    "lng": -80.7095382
   }
 }
