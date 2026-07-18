@@ -22394,5 +22394,13 @@
   "1826 Windsor Square Dr, Matthews, NC 28105": {
     "lat": 35.1342461,
     "lng": -80.7095382
+  },
+  "6908 Matthews Mint Hill Rd\u00a0Suite 310, Mint Hill, NC 28227": {
+    "lat": null,
+    "lng": null
+  },
+  "5501 Josh Birmingham Py\u00a0M2052, Charlotte, NC 28208": {
+    "lat": null,
+    "lng": null
   }
 }
