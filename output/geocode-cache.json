@@ -22406,5 +22406,9 @@
   "7804 Rea Rd\u00a0Ste A, Charlotte, NC 28277": {
     "lat": null,
     "lng": null
+  },
+  "2415 Little Rock Rd, Charlotte, NC 28214": {
+    "lat": 35.2469048,
+    "lng": -80.9371342
   }
 }
