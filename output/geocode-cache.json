@@ -22410,5 +22410,9 @@
   "2415 Little Rock Rd, Charlotte, NC 28214": {
     "lat": 35.2469048,
     "lng": -80.9371342
+  },
+  "850 Chancellor Park Dr\u00a0E, Charlotte, NC 28213": {
+    "lat": null,
+    "lng": null
   }
 }
