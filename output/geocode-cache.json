@@ -22418,5 +22418,9 @@
   "7200 Albemarle Rd\u00a0Suite M, Charlotte, NC 28227": {
     "lat": null,
     "lng": null
+  },
+  "155 New Bern St, Charlotte, NC 28209": {
+    "lat": 35.1993269,
+    "lng": -80.8684715
   }
 }
