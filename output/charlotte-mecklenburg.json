@@ -1,10 +1,257 @@
 {
-  "fetchedAt": "2026-07-31T10:59:48.878619+00:00",
+  "fetchedAt": "2026-08-01T10:22:58.467120+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
-  "count": 2951,
+  "count": 2950,
   "restaurants": [
+    {
+      "id": "us-mck-2060014800",
+      "name": "BOARDWALK BILLY`S RAW BAR&RIBS",
+      "address": "9005 J M Keynes Dr\u00a0Suite 2, Charlotte, NC 28262",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-07-31",
+        "score": 96.0,
+        "grade": "A",
+        "gradeDate": "2026-07-31",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060017373",
+      "name": "BURGER KING #715",
+      "address": "10000 Lee St, Pineville, NC 28134",
+      "city": "Pineville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-07-31",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-07-31",
+        "violations": []
+      },
+      "latitude": 35.0848397,
+      "longitude": -80.8855505,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110853",
+      "name": "COMPARE FOODS DELI/KITCHEN",
+      "address": "5601 South Bv, Charlotte, NC 28217",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-07-31",
+        "score": 93.0,
+        "grade": "A",
+        "gradeDate": "2026-07-31",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111382",
+      "name": "CORAL SUSHI",
+      "address": "9525 Birkdale Crossing Dr\u00a0Suite 106, Huntersville, NC 28078",
+      "city": "Huntersville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-07-31",
+        "score": 95.0,
+        "grade": "A",
+        "gradeDate": "2026-07-31",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111109",
+      "name": "CROWN DINER/DUNKIN - CONCOURSE A",
+      "address": "5501 Josh Birmingham Py, Charlotte, NC 28208",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-07-31",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-07-31",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060017087",
+      "name": "HISSHO SUSHI - CONCOURSE D",
+      "address": "5501 Josh Birmingham Py\u00a0D2, Charlotte, NC 28208",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-07-31",
+        "score": 100.0,
+        "grade": "A",
+        "gradeDate": "2026-07-31",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110609",
+      "name": "JINYA BARCLAY DOWNS",
+      "address": "4401 Barclay Downs Dr\u00a0Ste 134, Charlotte, NC 28209",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-07-31",
+        "score": 92.5,
+        "grade": "A",
+        "gradeDate": "2026-07-31",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060012417",
+      "name": "MOREHEAD INN",
+      "address": "1122 E Morehead St, Charlotte, NC 28204",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-07-31",
+        "score": 97.5,
+        "grade": "A",
+        "gradeDate": "2026-07-31",
+        "violations": []
+      },
+      "latitude": 35.2098028,
+      "longitude": -80.8415392,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110718",
+      "name": "RISE CAFE",
+      "address": "9525 Birkdale Crossing Dr\u00a0Suite 101, Huntersville, NC 28078",
+      "city": "Huntersville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-07-31",
+        "score": 96.0,
+        "grade": "A",
+        "gradeDate": "2026-07-31",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110801",
+      "name": "ROOM SERVICE",
+      "address": "701 Keswick Av\u00a0Ste 105, Charlotte, NC 28306",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-07-31",
+        "score": 95.5,
+        "grade": "A",
+        "gradeDate": "2026-07-31",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060012624",
+      "name": "STARBUCKS #8211",
+      "address": "1961 E Seventh St, Charlotte, NC 28204",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-07-31",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-07-31",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060017259",
+      "name": "SUBWAY #40889",
+      "address": "3850 E Independence Bv, Charlotte, NC 28212",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-07-31",
+        "score": 93.5,
+        "grade": "A",
+        "gradeDate": "2026-07-31",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019424",
+      "name": "WINGSTOP #692",
+      "address": "3202 Wilkinson Bv\u00a0Suite C1, Charlotte, NC 28208",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-07-31",
+        "score": 99.0,
+        "grade": "A",
+        "gradeDate": "2026-07-31",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
     {
       "id": "us-mck-2060018418",
       "name": "AMELIE'S FRENCH BAKERY AND CAFE",
@@ -6273,25 +6520,6 @@
       },
       "latitude": 35.2267375,
       "longitude": -80.842964,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600111382",
-      "name": "CORAL SUSHI",
-      "address": "9525 Birkdale Crossing Dr\u00a0Suite 106, Huntersville, NC 28078",
-      "city": "Huntersville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-07-15",
-        "score": 87.0,
-        "grade": "B",
-        "gradeDate": "2026-07-15",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
       "officialUrl": null
     },
     {
@@ -36068,25 +36296,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060017087",
-      "name": "HISSHO SUSHI - CONCOURSE D",
-      "address": "5501 Josh Birmingham Py\u00a0D2, Charlotte, NC 28208",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-20",
-        "score": 100.0,
-        "grade": "A",
-        "gradeDate": "2026-04-20",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111393",
       "name": "INNESCAS SWEETS OF EUROPE",
       "address": "215 N Ames St\u00a0Unit 900, Matthews, NC 28105",
@@ -41065,25 +41274,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110609",
-      "name": "JINYA BARCLAY DOWNS",
-      "address": "4401 Barclay Downs Dr\u00a0Ste 134, Charlotte, NC 28209",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-01",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-04-01",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019940",
       "name": "PENN STATION EAST COAST SUBS #133",
       "address": "9805 Sandy Rock Pl\u00a0A1, Charlotte, NC 28277",
@@ -41752,25 +41942,6 @@
       "id": "us-mck-2060018951",
       "name": "BLAZE PIZZA",
       "address": "8948 J M Keynes Dr\u00a0Suite 400, Charlotte, NC 28262",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-30",
-        "score": 95.0,
-        "grade": "A",
-        "gradeDate": "2026-03-30",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060014800",
-      "name": "BOARDWALK BILLY`S RAW BAR&RIBS",
-      "address": "9005 J M Keynes Dr\u00a0Suite 2, Charlotte, NC 28262",
       "city": "Charlotte",
       "country": "US",
       "region": "Charlotte",
@@ -43022,25 +43193,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060019424",
-      "name": "WINGSTOP #692",
-      "address": "3202 Wilkinson Bv\u00a0Suite C1, Charlotte, NC 28208",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-25",
-        "score": 99.5,
-        "grade": "A",
-        "gradeDate": "2026-03-25",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019740",
       "name": "CHICK FIL A #2982 AT BLAKENEY",
       "address": "10001 Rea Rd, Charlotte, NC 28277",
@@ -43887,25 +44039,6 @@
       "latestInspection": {
         "inspectionDate": "2026-03-20",
         "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-03-20",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600111109",
-      "name": "CROWN DINER/DUNKIN - CONCOURSE A",
-      "address": "5501 Josh Birmingham Py, Charlotte, NC 28208",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-20",
-        "score": 96.0,
         "grade": "A",
         "gradeDate": "2026-03-20",
         "violations": []
@@ -46499,25 +46632,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060012624",
-      "name": "STARBUCKS #8211",
-      "address": "1961 E Seventh St, Charlotte, NC 28204",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-11",
-        "score": 98.0,
-        "grade": "A",
-        "gradeDate": "2026-03-11",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111418",
       "name": "SUBWAY #17802",
       "address": "2904 Yorkmont Rd #A, Charlotte, NC 28027",
@@ -46724,25 +46838,6 @@
       },
       "latitude": 35.1995357,
       "longitude": -80.852152,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600110853",
-      "name": "COMPARE FOODS DELI/KITCHEN",
-      "address": "5601 South Bv, Charlotte, NC 28217",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-10",
-        "score": 92.5,
-        "grade": "A",
-        "gradeDate": "2026-03-10",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
       "officialUrl": null
     },
     {
@@ -50660,25 +50755,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060012417",
-      "name": "MOREHEAD INN",
-      "address": "1122 E Morehead St, Charlotte, NC 28204",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-11",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-02-11",
-        "violations": []
-      },
-      "latitude": 35.2098028,
-      "longitude": -80.8415392,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019732",
       "name": "OSTERIA LUCA PARK RD",
       "address": "4127 Park Rd, Charlotte, NC 28209",
@@ -50961,25 +51037,6 @@
       },
       "latitude": 35.2461224,
       "longitude": -80.8932118,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060017373",
-      "name": "BURGER KING #715",
-      "address": "10000 Lee St, Pineville, NC 28134",
-      "city": "Pineville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-06",
-        "score": 98.0,
-        "grade": "A",
-        "gradeDate": "2026-02-06",
-        "violations": []
-      },
-      "latitude": 35.0848397,
-      "longitude": -80.8855505,
       "officialUrl": null
     },
     {
@@ -52443,25 +52500,6 @@
       },
       "latitude": 35.2692002,
       "longitude": -80.8535338,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600110801",
-      "name": "ROOM SERVICE",
-      "address": "701 Keswick Av\u00a0Ste 105, Charlotte, NC 28306",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-01-21",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-01-21",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
       "officialUrl": null
     },
     {
@@ -54612,25 +54650,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110718",
-      "name": "RISE CAFE",
-      "address": "9525 Birkdale Crossing Dr\u00a0Suite 101, Huntersville, NC 28078",
-      "city": "Huntersville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-11-07",
-        "score": 93.0,
-        "grade": "A",
-        "gradeDate": "2025-11-07",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060016915",
       "name": "PANERA BREAD UPTOWN #1406",
       "address": "201 S College St, Charlotte, NC 28244",
@@ -55293,25 +55312,6 @@
       },
       "latitude": 35.4403421,
       "longitude": -80.872861,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060017259",
-      "name": "SUBWAY #40889",
-      "address": "3850 E Independence Bv, Charlotte, NC 28212",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-07-31",
-        "score": 93.5,
-        "grade": "A",
-        "gradeDate": "2025-07-31",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
       "officialUrl": null
     },
     {
@@ -55999,25 +55999,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060018083",
-      "name": "HOOTERS OF SOUTH CHARLOTTE",
-      "address": "9807 South Bv, Charlotte, NC 28273",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-04-02",
-        "score": 96.5,
-        "grade": "A",
-        "gradeDate": "2025-04-02",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060017765",
       "name": "EINSTEIN BROS. BAGELS #27462",
       "address": "1900 Selwyn Av, Charlotte, NC 28274",
@@ -56075,5 +56056,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-07-31T10:59:58.233670+00:00"
+  "geocodedAt": "2026-08-01T10:23:06.205893+00:00"
 }
