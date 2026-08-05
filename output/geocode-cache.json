@@ -22430,5 +22430,9 @@
   "6021 Hickory Grove Rd, Charlotte, NC 28215": {
     "lat": 35.223089,
     "lng": -80.7259998
+  },
+  "120 N Cedar St Ste 765, Charlotte, NC 28202": {
+    "lat": null,
+    "lng": null
   }
 }
