@@ -22434,5 +22434,13 @@
   "120 N Cedar St Ste 765, Charlotte, NC 28202": {
     "lat": null,
     "lng": null
+  },
+  "16801 Caldwell Creek Dr`, Huntersville, NC 28078": {
+    "lat": 35.44315,
+    "lng": -80.866821
+  },
+  "1404 W Morehead St, Charlotte, NC 28208": {
+    "lat": 35.2291158,
+    "lng": -80.8640144
   }
 }
