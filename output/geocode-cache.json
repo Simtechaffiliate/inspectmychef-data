@@ -22442,5 +22442,13 @@
   "1404 W Morehead St, Charlotte, NC 28208": {
     "lat": 35.2291158,
     "lng": -80.8640144
+  },
+  "10227 Mallard Creek Rd\u00a0Ste A, Charlotte, NC 28262": {
+    "lat": null,
+    "lng": null
+  },
+  "523 Fenton Pl, Charlotte, NC 28207": {
+    "lat": 35.200715,
+    "lng": -80.82463
   }
 }
