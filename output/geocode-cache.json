@@ -22450,5 +22450,9 @@
   "523 Fenton Pl, Charlotte, NC 28207": {
     "lat": 35.200715,
     "lng": -80.82463
+  },
+  "13000 S Tryon St\u00a0Ste J, Charlotte, NC 28278": {
+    "lat": null,
+    "lng": null
   }
 }
