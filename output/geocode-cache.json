@@ -22466,5 +22466,13 @@
   "8036 Providence Rd\u00a0Ste 200, Charlotte, NC 28277": {
     "lat": null,
     "lng": null
+  },
+  "9905 Matthews Park Dr., Matthews, NC 28105": {
+    "lat": 35.132329,
+    "lng": -80.7120899
+  },
+  "3116 Johnston Oehler Rd, Charlotte, NC 28269": {
+    "lat": 35.3627623,
+    "lng": -80.7611715
   }
 }
