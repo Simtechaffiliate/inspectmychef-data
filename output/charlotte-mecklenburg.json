@@ -1,10 +1,466 @@
 {
-  "fetchedAt": "2026-08-20T09:01:41.804092+00:00",
+  "fetchedAt": "2026-08-21T09:02:28.767824+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
-  "count": 2950,
+  "count": 2951,
   "restaurants": [
+    {
+      "id": "us-mck-20600111495",
+      "name": "A & C CHINESE FAST FOOD",
+      "address": "2200 Beatties Ford Rd, Charlotte, NC 28216",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": 35.264346,
+      "longitude": -80.85433,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060015307",
+      "name": "BUFFALO WILD WINGS GRILL AND BAR",
+      "address": "400 E Martin Luther King Jr Bv, Charlotte, NC 28202",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 93.5,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060011513",
+      "name": "BURGER KING #7319",
+      "address": "3421 Wilkinson Bv, Charlotte, NC 28208",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 97.5,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060014626",
+      "name": "CHUCK'S GRILL",
+      "address": "8001 Old Statesville Rd, Charlotte, NC 28269",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 99.0,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": 35.329974,
+      "longitude": -80.826195,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019503",
+      "name": "CILANTRO NOODLE / OHCA TIME",
+      "address": "2001 Commonwealth Av, Charlotte, NC 28205",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 91.5,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": 35.2190339,
+      "longitude": -80.8118379,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111597",
+      "name": "CRAIC,THE",
+      "address": "4810 Ashley Park Ln\u00a0Ste E, Charlotte, NC 28210",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019163",
+      "name": "FIN & FINO",
+      "address": "135 Levine Avenue Of The Arts\u00a0Suite 100, Charlotte, NC 28202",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 96.0,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019654",
+      "name": "GYU-KAKU",
+      "address": "650 E Brooklyn Village Av\u00a0Unit A, Charlotte, NC 28202",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 96.5,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060013053",
+      "name": "HARRIS TEETER #179 DELI/BAKERY",
+      "address": "19815 North Cove Rd, Cornelius, NC 28031",
+      "city": "Cornelius",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 96.5,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": 35.4774913,
+      "longitude": -80.8941312,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110742",
+      "name": "HOME 2 SUITES BY HILTON NORTHLAKE",
+      "address": "7227 Smith Corners Bv, Charlotte, NC 28269",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 99.0,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111722",
+      "name": "HUNTER HOUSE/CIRCA 1913",
+      "address": "13811 S Old Statesville Rd, Huntersville, NC 28078",
+      "city": "Huntersville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 99.5,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": 35.4049334,
+      "longitude": -80.8414832,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110475",
+      "name": "JACK IN THE BOX",
+      "address": "7806 Forest Point Bv, Charlotte, NC 28217",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 96.5,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060018737",
+      "name": "MELLOW MUSHROOM #139",
+      "address": "14835 Ballantyne Village Wy\u00a0Ste 150, Charlotte, NC 28277",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 96.0,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060017049",
+      "name": "MIDWOOD SMOKEHOUSE/GK",
+      "address": "1401 Central Av, Charlotte, NC 28205",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": 35.2210252,
+      "longitude": -80.8148776,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060015928",
+      "name": "NILE GROCERY & CAFE",
+      "address": "3113 N Sharon Amity Rd, Charlotte, NC 28205",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 95.0,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": 35.2027179,
+      "longitude": -80.7608819,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019499",
+      "name": "PHO AT NODA",
+      "address": "2100 N Davidson St\u00a0Ste A, Charlotte, NC 28205",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 93.0,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111156",
+      "name": "PISCO GASTROLOUNGE",
+      "address": "116 West 5Th St\u00a0Ste A, Charlotte, NC 28202",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 93.0,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110343",
+      "name": "SAKU YAKITORI AND SUSHI BAR",
+      "address": "123 E 5Th St\u00a0Ste 100, Charlotte, NC 28202",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 94.0,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019371",
+      "name": "SKY ZONE NORTHLAKE",
+      "address": "7325 Smith Corners Bv, Charlotte, NC 28269",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 100.0,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019543",
+      "name": "SNOOZE AN AM EATERY PLAZA MIDWOOD",
+      "address": "1331 Central Av\u00a0Ste 100, Charlotte, NC 28205",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 98.0,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060018945",
+      "name": "STARBUCKS COFFEE CO #25058",
+      "address": "4805 Sharon Rd, Charlotte, NC 28210",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": 35.1462024,
+      "longitude": -80.8315169,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060015636",
+      "name": "STARBUCKS COFFEE COMPANY #10324",
+      "address": "7819 Forest Pine Dr, Charlotte, NC 28273",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 99.5,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": 35.1368654,
+      "longitude": -80.9041875,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111239",
+      "name": "TIPSY PICKLE",
+      "address": "201 Camp Rd\u00a0Ste 120, Charlotte, NC 28206",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-20",
+        "score": 95.5,
+        "grade": "A",
+        "gradeDate": "2026-08-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110499",
+      "name": "AL CHILE SPORTS BAR",
+      "address": "6701 N Tryon St\u00a0L, Charlotte, NC 28213",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-19",
+        "score": 95.5,
+        "grade": "A",
+        "gradeDate": "2026-08-19",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
     {
       "id": "us-mck-2060018299",
       "name": "AMELIE'S FRENCH BAKERY AND CAFE",
@@ -225,6 +681,25 @@
       "latestInspection": {
         "inspectionDate": "2026-08-19",
         "score": 95.0,
+        "grade": "A",
+        "gradeDate": "2026-08-19",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110108",
+      "name": "JIMMY, THE",
+      "address": "2839 Selwyn Av\u00a0Suite X, Charlotte, NC 28209",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-19",
+        "score": 97.0,
         "grade": "A",
         "gradeDate": "2026-08-19",
         "violations": []
@@ -497,6 +972,25 @@
       },
       "latitude": null,
       "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111464",
+      "name": "RIO 150",
+      "address": "8164 S Tryon St, Charlotte, NC 28273",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-19",
+        "score": 90.0,
+        "grade": "A",
+        "gradeDate": "2026-08-19",
+        "violations": []
+      },
+      "latitude": 35.1429031,
+      "longitude": -80.9301664,
       "officialUrl": null
     },
     {
@@ -1979,6 +2473,25 @@
       },
       "latitude": 35.2078645,
       "longitude": -80.7893407,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060018426",
+      "name": "LEGION BREWERY",
+      "address": "1906 Commonwealth Av, Charlotte, NC 28205",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-14",
+        "score": 94.5,
+        "grade": "A",
+        "gradeDate": "2026-08-14",
+        "violations": []
+      },
+      "latitude": 35.2183117,
+      "longitude": -80.8129705,
       "officialUrl": null
     },
     {
@@ -5535,25 +6048,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060019333",
-      "name": "FIREHOUSE SUBS",
-      "address": "9826 Gilead Rd\u00a0C102, Huntersville, NC 28078",
-      "city": "Huntersville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-08-05",
-        "score": 96.5,
-        "grade": "A",
-        "gradeDate": "2026-08-05",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019331",
       "name": "FIREHOUSE SUBS",
       "address": "9335 Center Lake Dr, Charlotte, NC 28216",
@@ -5570,6 +6064,25 @@
       },
       "latitude": 35.3495382,
       "longitude": -80.8549097,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019333",
+      "name": "FIREHOUSE SUBS",
+      "address": "9826 Gilead Rd\u00a0C102, Huntersville, NC 28078",
+      "city": "Huntersville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-05",
+        "score": 96.5,
+        "grade": "A",
+        "gradeDate": "2026-08-05",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
       "officialUrl": null
     },
     {
@@ -24706,25 +25219,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110499",
-      "name": "AL CHILE SPORTS BAR",
-      "address": "6701 N Tryon St\u00a0L, Charlotte, NC 28213",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-16",
-        "score": 95.5,
-        "grade": "A",
-        "gradeDate": "2026-06-16",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060015886",
       "name": "ASIAN GARDEN",
       "address": "2925 E W T Harris Bv, Charlotte, NC 28213",
@@ -31413,25 +31907,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060014626",
-      "name": "CHUCK'S GRILL",
-      "address": "8001 Old Statesville Rd, Charlotte, NC 28269",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-01",
-        "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2026-06-01",
-        "violations": []
-      },
-      "latitude": 35.329974,
-      "longitude": -80.826195,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060010129",
       "name": "CRACKER BARREL",
       "address": "3203 Queen City Dr, Charlotte, NC 28208",
@@ -35191,25 +35666,6 @@
       },
       "latitude": 35.0520967,
       "longitude": -80.7676249,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019503",
-      "name": "CILANTRO NOODLE / OHCA TIME",
-      "address": "2001 Commonwealth Av, Charlotte, NC 28205",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-05-18",
-        "score": 94.5,
-        "grade": "A",
-        "gradeDate": "2026-05-18",
-        "violations": []
-      },
-      "latitude": 35.2190339,
-      "longitude": -80.8118379,
       "officialUrl": null
     },
     {
@@ -39811,25 +40267,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600111597",
-      "name": "CRAIC,THE",
-      "address": "4810 Ashley Park Ln\u00a0Ste E, Charlotte, NC 28210",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-30",
-        "score": 96.0,
-        "grade": "A",
-        "gradeDate": "2026-04-30",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060017902",
       "name": "DB'S TAVERN",
       "address": "8155 Ardrey Kell Rd, Charlotte, NC 28277",
@@ -42395,25 +42832,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600111495",
-      "name": "A & C CHINESE FAST FOOD",
-      "address": "2200 Beatties Ford Rd, Charlotte, NC 28216",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-16",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-04-16",
-        "violations": []
-      },
-      "latitude": 35.264346,
-      "longitude": -80.85433,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111530",
       "name": "ASIAN BUFFET & GRILL",
       "address": "11032 E Independence Bv, Matthews, NC 28105",
@@ -43022,25 +43440,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600111239",
-      "name": "TIPSY PICKLE",
-      "address": "201 Camp Rd\u00a0Ste 120, Charlotte, NC 28206",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-15",
-        "score": 96.5,
-        "grade": "A",
-        "gradeDate": "2026-04-15",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110574",
       "name": "VITALITY BOWLS",
       "address": "1414 S Tryon St\u00a0Ste 150, Charlotte, NC 28203",
@@ -43361,25 +43760,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060018945",
-      "name": "STARBUCKS COFFEE CO #25058",
-      "address": "4805 Sharon Rd, Charlotte, NC 28210",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-14",
-        "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2026-04-14",
-        "violations": []
-      },
-      "latitude": 35.1462024,
-      "longitude": -80.8315169,
       "officialUrl": null
     },
     {
@@ -45131,25 +45511,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060018737",
-      "name": "MELLOW MUSHROOM #139",
-      "address": "14835 Ballantyne Village Wy\u00a0Ste 150, Charlotte, NC 28277",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-07",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-04-07",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110496",
       "name": "NAUTICAL BOWLS ARBORETUM",
       "address": "8040 Providence Rd\u00a0Ste 400, Charlotte, NC 28277",
@@ -45663,25 +46024,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060011513",
-      "name": "BURGER KING #7319",
-      "address": "3421 Wilkinson Bv, Charlotte, NC 28208",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-02",
-        "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2026-04-02",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060016995",
       "name": "CARIBOU COFFEE #408",
       "address": "7804 Fairview Rd, Charlotte, NC 28226",
@@ -45996,25 +46338,6 @@
       "latestInspection": {
         "inspectionDate": "2026-04-01",
         "score": 96.5,
-        "grade": "A",
-        "gradeDate": "2026-04-01",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019499",
-      "name": "PHO AT NODA",
-      "address": "2100 N Davidson St\u00a0Ste A, Charlotte, NC 28205",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-01",
-        "score": 94.5,
         "grade": "A",
         "gradeDate": "2026-04-01",
         "violations": []
@@ -46746,25 +47069,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110742",
-      "name": "HOME 2 SUITES BY HILTON NORTHLAKE",
-      "address": "7227 Smith Corners Bv, Charlotte, NC 28269",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-30",
-        "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2026-03-30",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060012802",
       "name": "HUNAN EXPRESS",
       "address": "901 N Wendover Rd\u00a0Suite C, Charlotte, NC 28211",
@@ -47316,25 +47620,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110475",
-      "name": "JACK IN THE BOX",
-      "address": "7806 Forest Point Bv, Charlotte, NC 28217",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-25",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-03-25",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060015237",
       "name": "LANG VAN RESTAURANT",
       "address": "3019 Shamrock Dr, Charlotte, NC 28215",
@@ -47497,25 +47782,6 @@
       "latestInspection": {
         "inspectionDate": "2026-03-24",
         "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-03-24",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019371",
-      "name": "SKY ZONE NORTHLAKE",
-      "address": "7325 Smith Corners Bv, Charlotte, NC 28269",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-24",
-        "score": 99.0,
         "grade": "A",
         "gradeDate": "2026-03-24",
         "violations": []
@@ -49387,25 +49653,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060019654",
-      "name": "GYU-KAKU",
-      "address": "650 E Brooklyn Village Av\u00a0Unit A, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-16",
-        "score": 96.5,
-        "grade": "A",
-        "gradeDate": "2026-03-16",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111569",
       "name": "HARRIET'S HAMBURGERS PLAZA MIDWOOD",
       "address": "1711 Commonwealth Av\u00a0Ste 180, Charlotte, NC 28205",
@@ -49786,25 +50033,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060015307",
-      "name": "BUFFALO WILD WINGS GRILL AND BAR",
-      "address": "400 E Martin Luther King Jr Bv, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-12",
-        "score": 92.0,
-        "grade": "A",
-        "gradeDate": "2026-03-12",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019991",
       "name": "CHIPOTLE MEXICAN GRILL #3751 MINT HILL",
       "address": "9030 Albemarle Rd\u00a0Ste D, Charlotte, NC 28227",
@@ -49954,25 +50182,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060015636",
-      "name": "STARBUCKS COFFEE COMPANY #10324",
-      "address": "7819 Forest Pine Dr, Charlotte, NC 28273",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-12",
-        "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2026-03-12",
-        "violations": []
-      },
-      "latitude": 35.1368654,
-      "longitude": -80.9041875,
       "officialUrl": null
     },
     {
@@ -50356,25 +50565,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110108",
-      "name": "JIMMY, THE",
-      "address": "2839 Selwyn Av\u00a0Suite X, Charlotte, NC 28209",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-10",
-        "score": 96.5,
-        "grade": "A",
-        "gradeDate": "2026-03-10",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111031",
       "name": "K POT KOREAN BBQ & HOT POT",
       "address": "9609 E Independence Bv\u00a0Ste P, Matthews, NC 28105",
@@ -50698,25 +50888,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060018426",
-      "name": "LEGION BREWERY",
-      "address": "1906 Commonwealth Av, Charlotte, NC 28205",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-09",
-        "score": 94.5,
-        "grade": "A",
-        "gradeDate": "2026-03-09",
-        "violations": []
-      },
-      "latitude": 35.2183117,
-      "longitude": -80.8129705,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019633",
       "name": "MORAZAN RESTAURANT CENTRAL AVENUE",
       "address": "4918 Central Av, Charlotte, NC 28205",
@@ -50983,25 +51154,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060013053",
-      "name": "HARRIS TEETER #179 DELI/BAKERY",
-      "address": "19815 North Cove Rd, Cornelius, NC 28031",
-      "city": "Cornelius",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-05",
-        "score": 96.0,
-        "grade": "A",
-        "gradeDate": "2026-03-05",
-        "violations": []
-      },
-      "latitude": 35.4774913,
-      "longitude": -80.8941312,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019115",
       "name": "MI TIERRA",
       "address": "3209 Eastway Dr\u00a0Suite 7, Charlotte, NC 28205",
@@ -51018,25 +51170,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060017049",
-      "name": "MIDWOOD SMOKEHOUSE/GK",
-      "address": "1401 Central Av, Charlotte, NC 28205",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-05",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-03-05",
-        "violations": []
-      },
-      "latitude": 35.2210252,
-      "longitude": -80.8148776,
       "officialUrl": null
     },
     {
@@ -51069,25 +51202,6 @@
       "latestInspection": {
         "inspectionDate": "2026-03-05",
         "score": 94.5,
-        "grade": "A",
-        "gradeDate": "2026-03-05",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019543",
-      "name": "SNOOZE AN AM EATERY PLAZA MIDWOOD",
-      "address": "1331 Central Av\u00a0Ste 100, Charlotte, NC 28205",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-05",
-        "score": 97.0,
         "grade": "A",
         "gradeDate": "2026-03-05",
         "violations": []
@@ -52313,25 +52427,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110343",
-      "name": "SAKU YAKITORI AND SUSHI BAR",
-      "address": "123 E 5Th St\u00a0Ste 100, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-19",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-02-19",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060014645",
       "name": "SANGAM INDIAN CUISINE",
       "address": "20910 Torrence Chapel Rd, Cornelius, NC 28031",
@@ -52684,25 +52779,6 @@
       "latestInspection": {
         "inspectionDate": "2026-02-11",
         "score": 94.5,
-        "grade": "A",
-        "gradeDate": "2026-02-11",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019163",
-      "name": "FIN & FINO",
-      "address": "135 Levine Avenue Of The Arts\u00a0Suite 100, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-11",
-        "score": 97.0,
         "grade": "A",
         "gradeDate": "2026-02-11",
         "violations": []
@@ -53545,25 +53621,6 @@
       },
       "latitude": 35.2251738,
       "longitude": -80.8415883,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600111156",
-      "name": "PISCO GASTROLOUNGE",
-      "address": "116 West 5Th St\u00a0Ste A, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-01-23",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-01-23",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
       "officialUrl": null
     },
     {
@@ -54555,25 +54612,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060015928",
-      "name": "NILE GROCERY & CAFE",
-      "address": "3113 N Sharon Amity Rd, Charlotte, NC 28205",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-12-15",
-        "score": 93.5,
-        "grade": "A",
-        "gradeDate": "2025-12-15",
-        "violations": []
-      },
-      "latitude": 35.2027179,
-      "longitude": -80.7608819,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019452",
       "name": "CENTRAL TEA HOUSE",
       "address": "3000 Central Av\u00a0Ste 6, Charlotte, NC 28205",
@@ -54780,25 +54818,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600111464",
-      "name": "RIO 150",
-      "address": "8164 S Tryon St, Charlotte, NC 28273",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-12-04",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2025-12-04",
-        "violations": []
-      },
-      "latitude": 35.1429031,
-      "longitude": -80.9301664,
       "officialUrl": null
     },
     {
@@ -56056,5 +56075,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-08-20T09:01:49.711430+00:00"
+  "geocodedAt": "2026-08-21T09:02:36.676819+00:00"
 }
