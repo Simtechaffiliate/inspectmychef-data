@@ -22474,5 +22474,9 @@
   "3116 Johnston Oehler Rd, Charlotte, NC 28269": {
     "lat": 35.3627623,
     "lng": -80.7611715
+  },
+  "5220 New Fashion Way Ste 400, Charlotte, NC 28278": {
+    "lat": null,
+    "lng": null
   }
 }
