@@ -22478,5 +22478,9 @@
   "5220 New Fashion Way Ste 400, Charlotte, NC 28278": {
     "lat": null,
     "lng": null
+  },
+  "13721 Mallard Creek Rd, Charlotte, NC 28262": {
+    "lat": 35.3575501,
+    "lng": -80.754994
   }
 }
