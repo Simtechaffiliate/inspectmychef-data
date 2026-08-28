@@ -22486,5 +22486,9 @@
   "4936 Trojan Dr, Charlotte, NC 28278": {
     "lat": 35.1659218,
     "lng": -80.9697579
+  },
+  "12925 Albemarle Rd\u00a0Ste F, Charlotte, NC 28227": {
+    "lat": null,
+    "lng": null
   }
 }
