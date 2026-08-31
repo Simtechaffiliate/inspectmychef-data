@@ -1,10 +1,48 @@
 {
-  "fetchedAt": "2026-08-30T13:59:08.701445+00:00",
+  "fetchedAt": "2026-08-31T16:16:42.074926+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
   "count": 2948,
   "restaurants": [
+    {
+      "id": "us-mck-20600111206",
+      "name": "CLEAN JUICE UPTOWN",
+      "address": "201 S Tryon St\u00a0Ste 120-B, Charlotte, NC 28202",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-31",
+        "score": 99.0,
+        "grade": "A",
+        "gradeDate": "2026-08-31",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019745",
+      "name": "RHINO MARKET & DELI",
+      "address": "1414 S Tryon St\u00a0Suite 120, Charlotte, NC 28203",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-31",
+        "score": 96.0,
+        "grade": "A",
+        "gradeDate": "2026-08-31",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
     {
       "id": "us-mck-20600110228",
       "name": "BEST WESTERN PLUS",
@@ -1010,6 +1048,25 @@
       },
       "latitude": 35.2186285,
       "longitude": -80.6527674,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060017532",
+      "name": "WHY NOT PIZZA",
+      "address": "7008 E W T Harris Bv, Charlotte, NC 28215",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-27",
+        "score": 98.0,
+        "grade": "A",
+        "gradeDate": "2026-08-27",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
       "officialUrl": null
     },
     {
@@ -2739,6 +2796,25 @@
       },
       "latitude": 35.1757057,
       "longitude": -80.6543766,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019178",
+      "name": "CHEX GRILL",
+      "address": "2736 Freedom Dr\u00a0Suite B, Charlotte, NC 28208",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-21",
+        "score": 98.0,
+        "grade": "A",
+        "gradeDate": "2026-08-21",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
       "officialUrl": null
     },
     {
@@ -37265,25 +37341,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060019178",
-      "name": "CHEX GRILL",
-      "address": "2736 Freedom Dr\u00a0Suite B, Charlotte, NC 28208",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-05-21",
-        "score": 98.0,
-        "grade": "A",
-        "gradeDate": "2026-05-21",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111210",
       "name": "COFFEE REPUBLIC UPTOWN",
       "address": "500 W Trade St\u00a0Ste 101, Charlotte, NC 28202",
@@ -50812,25 +50869,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060019745",
-      "name": "RHINO MARKET & DELI",
-      "address": "1414 S Tryon St\u00a0Suite 120, Charlotte, NC 28203",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-17",
-        "score": 97.5,
-        "grade": "A",
-        "gradeDate": "2026-03-17",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111571",
       "name": "THAI HOUSE AT LAKE NORMAN",
       "address": "19700 One Norman Bv\u00a0Suite A, Cornelius, NC 28031",
@@ -51778,25 +51816,6 @@
       },
       "latitude": 35.2238126,
       "longitude": -80.6313493,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060017532",
-      "name": "WHY NOT PIZZA",
-      "address": "7008 E W T Harris Bv, Charlotte, NC 28215",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-10",
-        "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2026-03-10",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
       "officialUrl": null
     },
     {
@@ -54365,25 +54384,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600111206",
-      "name": "CLEAN JUICE UPTOWN",
-      "address": "201 S Tryon St\u00a0Ste 120-B, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-01-09",
-        "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2026-01-09",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019524",
       "name": "JERSEY MIKES #3188",
       "address": "1620 Oakhurst Commons Dr, Charlotte, NC 28205",
@@ -56018,5 +56018,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-08-30T13:59:15.330798+00:00"
+  "geocodedAt": "2026-08-31T16:16:49.918079+00:00"
 }
