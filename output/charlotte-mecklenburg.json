@@ -1,10 +1,86 @@
 {
-  "fetchedAt": "2026-09-13T13:28:31.134040+00:00",
+  "fetchedAt": "2026-09-14T15:09:51.082208+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
   "count": 2956,
   "restaurants": [
+    {
+      "id": "us-mck-2060019804",
+      "name": "LOCKER ROOM #306-310",
+      "address": "800 S Mint St, Charlotte, NC 28202",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-13",
+        "score": 100.0,
+        "grade": "A",
+        "gradeDate": "2026-09-13",
+        "violations": []
+      },
+      "latitude": 35.225774,
+      "longitude": -80.8528276,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019801",
+      "name": "PANTHERS DEN #322-326",
+      "address": "800 S Mint St, Charlotte, NC 28202",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-13",
+        "score": 100.0,
+        "grade": "A",
+        "gradeDate": "2026-09-13",
+        "violations": []
+      },
+      "latitude": 35.225774,
+      "longitude": -80.8528276,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019803",
+      "name": "PRESS BOX #349-352",
+      "address": "800 S Mint St, Charlotte, NC 28202",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-13",
+        "score": 100.0,
+        "grade": "A",
+        "gradeDate": "2026-09-13",
+        "violations": []
+      },
+      "latitude": 35.225774,
+      "longitude": -80.8528276,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019802",
+      "name": "RED ZONE #334-338",
+      "address": "800 S Mint St, Charlotte, NC 28202",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-13",
+        "score": 100.0,
+        "grade": "A",
+        "gradeDate": "2026-09-13",
+        "violations": []
+      },
+      "latitude": 35.225774,
+      "longitude": -80.8528276,
+      "officialUrl": null
+    },
     {
       "id": "us-mck-20600111582",
       "name": "CASA AZTECA UPTOWN",
@@ -253,6 +329,25 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-2060016685",
+      "name": "DRESSLER`S RESTAURANT",
+      "address": "1100 Metropolitan Av\u00a0Suite 125, Charlotte, NC 28204",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-10",
+        "score": 94.0,
+        "grade": "A",
+        "gradeDate": "2026-09-10",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-2060013601",
       "name": "DUKE MANSION",
       "address": "400 Hermitage Rd, Charlotte, NC 28207",
@@ -396,6 +491,25 @@
       "latestInspection": {
         "inspectionDate": "2026-09-10",
         "score": 95.0,
+        "grade": "A",
+        "gradeDate": "2026-09-10",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110098",
+      "name": "LOUISIANA FRIED CHICKEN",
+      "address": "7008 E W T Harris Bv\u00a0Suite 3, Charlotte, NC 28215",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-10",
+        "score": 96.5,
         "grade": "A",
         "gradeDate": "2026-09-10",
         "violations": []
@@ -12831,25 +12945,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060019331",
-      "name": "FIREHOUSE SUBS",
-      "address": "9335 Center Lake Dr, Charlotte, NC 28216",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-08-05",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-08-05",
-        "violations": []
-      },
-      "latitude": 35.3495382,
-      "longitude": -80.8549097,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019333",
       "name": "FIREHOUSE SUBS",
       "address": "9826 Gilead Rd\u00a0C102, Huntersville, NC 28078",
@@ -12866,6 +12961,25 @@
       },
       "latitude": null,
       "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019331",
+      "name": "FIREHOUSE SUBS",
+      "address": "9335 Center Lake Dr, Charlotte, NC 28216",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-05",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-08-05",
+        "violations": []
+      },
+      "latitude": 35.3495382,
+      "longitude": -80.8549097,
       "officialUrl": null
     },
     {
@@ -17963,7 +18077,7 @@
     {
       "id": "us-mck-20600111399",
       "name": "QDOBA MEXICAN EATS #8007",
-      "address": "230 E Wt Harris Bv\u00a0Ste B1, Charlotte, NC 28262",
+      "address": "230 E W T Harris Bv\u00a0Ste B1, Charlotte, NC 28262",
       "city": "Charlotte",
       "country": "US",
       "region": "Charlotte",
@@ -51743,44 +51857,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060019804",
-      "name": "LOCKER ROOM #306-310",
-      "address": "800 S Mint St, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-14",
-        "score": 98.0,
-        "grade": "A",
-        "gradeDate": "2026-03-14",
-        "violations": []
-      },
-      "latitude": 35.225774,
-      "longitude": -80.8528276,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019801",
-      "name": "PANTHERS DEN #322-326",
-      "address": "800 S Mint St, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-14",
-        "score": 99.5,
-        "grade": "A",
-        "gradeDate": "2026-03-14",
-        "violations": []
-      },
-      "latitude": 35.225774,
-      "longitude": -80.8528276,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110512",
       "name": "APPLEBEES #1095",
       "address": "9616 E Independence Bv, Matthews, NC 28105",
@@ -52133,25 +52209,6 @@
       "latestInspection": {
         "inspectionDate": "2026-03-11",
         "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2026-03-11",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600110098",
-      "name": "LOUISIANA FRIED CHICKEN",
-      "address": "7008 E W T Harris Bv\u00a0Suite 3, Charlotte, NC 28215",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-11",
-        "score": 95.5,
         "grade": "A",
         "gradeDate": "2026-03-11",
         "violations": []
@@ -52633,44 +52690,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019803",
-      "name": "PRESS BOX #349-352",
-      "address": "800 S Mint St, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-07",
-        "score": 100.0,
-        "grade": "A",
-        "gradeDate": "2026-03-07",
-        "violations": []
-      },
-      "latitude": 35.225774,
-      "longitude": -80.8528276,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019802",
-      "name": "RED ZONE #334-338",
-      "address": "800 S Mint St, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-07",
-        "score": 99.5,
-        "grade": "A",
-        "gradeDate": "2026-03-07",
-        "violations": []
-      },
-      "latitude": 35.225774,
-      "longitude": -80.8528276,
       "officialUrl": null
     },
     {
@@ -54248,25 +54267,6 @@
       },
       "latitude": 35.196537,
       "longitude": -80.851398,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060016685",
-      "name": "DRESSLER`S RESTAURANT",
-      "address": "1100 Metropolitan Av\u00a0Suite 125, Charlotte, NC 28204",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-01-22",
-        "score": 95.0,
-        "grade": "A",
-        "gradeDate": "2026-01-22",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
       "officialUrl": null
     },
     {
@@ -56170,5 +56170,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-09-13T13:28:38.536706+00:00"
+  "geocodedAt": "2026-09-14T15:10:00.925633+00:00"
 }
