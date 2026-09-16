@@ -22546,5 +22546,13 @@
   "9120 Northlake West Dr, Charlotte, NC 28216": {
     "lat": 35.3472069,
     "lng": -80.861577
+  },
+  "8136 S Tryon St, Charlotte, NC 28273": {
+    "lat": 35.143935,
+    "lng": -80.9308387
+  },
+  "1422 S. Tryon St.\u00a0Ste 140, Charlotte, NC 28203": {
+    "lat": null,
+    "lng": null
   }
 }
