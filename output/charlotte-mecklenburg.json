@@ -1,10 +1,86 @@
 {
-  "fetchedAt": "2026-09-20T13:12:45.632807+00:00",
+  "fetchedAt": "2026-09-21T15:14:26.118525+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
-  "count": 2965,
+  "count": 2966,
   "restaurants": [
+    {
+      "id": "us-mck-2060018541",
+      "name": "HAMPTON INN BREAKFAST",
+      "address": "9615 Independence Pointe Py, Matthews, NC 28105",
+      "city": "Matthews",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-21",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-09-21",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019001",
+      "name": "PARK PLACE RESTAURANT",
+      "address": "10517 Park Rd, Charlotte, NC 28210",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-21",
+        "score": 94.5,
+        "grade": "A",
+        "gradeDate": "2026-09-21",
+        "violations": []
+      },
+      "latitude": 35.0932546,
+      "longitude": -80.8679004,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110572",
+      "name": "FUMEE",
+      "address": "9539 Pinnacle Dr\u00a0Ste 203, Charlotte, NC 28262",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-20",
+        "score": 95.0,
+        "grade": "A",
+        "gradeDate": "2026-09-20",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060017685",
+      "name": "NAKATO JAPANESE STEAKHOUSE",
+      "address": "8500 Pineville-Matthews Rd, Charlotte, NC 28226",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-20",
+        "score": 96.5,
+        "grade": "A",
+        "gradeDate": "2026-09-20",
+        "violations": []
+      },
+      "latitude": 35.088514,
+      "longitude": -80.863157,
+      "officialUrl": null
+    },
     {
       "id": "us-mck-20600111642",
       "name": "BES NOODLES AND BAHN MI",
@@ -22,6 +98,25 @@
       },
       "latitude": null,
       "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060018877",
+      "name": "BURGER KING #3154",
+      "address": "2601 Beatties Ford Rd, Charlotte, NC 28216",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-18",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-09-18",
+        "violations": []
+      },
+      "latitude": 35.2694375,
+      "longitude": -80.854518,
       "officialUrl": null
     },
     {
@@ -250,6 +345,25 @@
       },
       "latitude": 35.227138,
       "longitude": -80.7742631,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111685",
+      "name": "NO KNIFE CHICKEN AND WAFFLES",
+      "address": "700 Atando Av, Charlotte, NC 28206",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-18",
+        "score": 94.5,
+        "grade": "A",
+        "gradeDate": "2026-09-18",
+        "violations": []
+      },
+      "latitude": 35.2602159,
+      "longitude": -80.8176563,
       "officialUrl": null
     },
     {
@@ -41920,25 +42034,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110572",
-      "name": "FUMEE",
-      "address": "9539 Pinnacle Dr\u00a0Ste 203, Charlotte, NC 28262",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-05-20",
-        "score": 96.0,
-        "grade": "A",
-        "gradeDate": "2026-05-20",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060016981",
       "name": "HOMEWOOD SUITES BY HILTON CHARLOTTE ARYSLEY",
       "address": "1921 Ayrsley Town Bv, Charlotte, NC 28273",
@@ -44406,25 +44501,6 @@
       },
       "latitude": 35.173735,
       "longitude": -80.840142,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019001",
-      "name": "PARK PLACE RESTAURANT",
-      "address": "10517 Park Rd, Charlotte, NC 28210",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-05-11",
-        "score": 95.5,
-        "grade": "A",
-        "gradeDate": "2026-05-11",
-        "violations": []
-      },
-      "latitude": 35.0932546,
-      "longitude": -80.8679004,
       "officialUrl": null
     },
     {
@@ -47449,25 +47525,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060018541",
-      "name": "HAMPTON INN BREAKFAST",
-      "address": "9615 Independence Pointe Py, Matthews, NC 28105",
-      "city": "Matthews",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-20",
-        "score": 96.5,
-        "grade": "A",
-        "gradeDate": "2026-04-20",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111393",
       "name": "INNESCAS SWEETS OF EUROPE",
       "address": "215 N Ames St\u00a0Unit 900, Matthews, NC 28105",
@@ -47769,25 +47826,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060018877",
-      "name": "BURGER KING #3154",
-      "address": "2601 Beatties Ford Rd, Charlotte, NC 28216",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-16",
-        "score": 98.0,
-        "grade": "A",
-        "gradeDate": "2026-04-16",
-        "violations": []
-      },
-      "latitude": 35.2694375,
-      "longitude": -80.854518,
       "officialUrl": null
     },
     {
@@ -53795,25 +53833,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060017685",
-      "name": "NAKATO JAPANESE STEAKHOUSE",
-      "address": "8500 Pineville-Matthews Rd, Charlotte, NC 28226",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-02-19",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-02-19",
-        "violations": []
-      },
-      "latitude": 35.088514,
-      "longitude": -80.863157,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110640",
       "name": "RUTHS CHRIS STEAKHOUSE",
       "address": "222 S Tryon St, Charlotte, NC 28202",
@@ -56341,5 +56360,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-09-20T13:12:53.434914+00:00"
+  "geocodedAt": "2026-09-21T15:14:33.885772+00:00"
 }
