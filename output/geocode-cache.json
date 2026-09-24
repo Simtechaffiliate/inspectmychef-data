@@ -22562,5 +22562,9 @@
   "3228 N Davidson St, Charlotte, NC 28205": {
     "lat": 35.2473927,
     "lng": -80.8046057
+  },
+  "915 Pearl Park Wy\u00a0Ste 1100, Charlotte, NC 28204": {
+    "lat": null,
+    "lng": null
   }
 }
