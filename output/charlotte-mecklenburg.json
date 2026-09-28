@@ -1,10 +1,86 @@
 {
-  "fetchedAt": "2026-09-27T14:00:29.553797+00:00",
+  "fetchedAt": "2026-09-28T16:53:43.486485+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
-  "count": 2967,
+  "count": 2966,
   "restaurants": [
+    {
+      "id": "us-mck-2060012942",
+      "name": "BOJANGLES' #551",
+      "address": "9075 Lawyers Rd, Charlotte, NC 28227",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-28",
+        "score": 95.5,
+        "grade": "A",
+        "gradeDate": "2026-09-28",
+        "violations": []
+      },
+      "latitude": 35.1981505,
+      "longitude": -80.7178388,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060018178",
+      "name": "HOLIDAY INN EXPRESS & SUITES CHARLOTTE NORTH",
+      "address": "7230 Smith Corners Bv, Charlotte, NC 28269",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-28",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-09-28",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110679",
+      "name": "NOVANT HEALTH BALLANTYNE MEDICAL CTR FOOD SERVICE",
+      "address": "10905 Providence Rd West, Charlotte, NC 28277",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-28",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-09-28",
+        "violations": []
+      },
+      "latitude": 35.0412421,
+      "longitude": -80.8437841,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060018748",
+      "name": "PANERA BREAD #1966",
+      "address": "11630 Waverly Center Dr, Charlotte, NC 28277",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-28",
+        "score": 95.0,
+        "grade": "A",
+        "gradeDate": "2026-09-28",
+        "violations": []
+      },
+      "latitude": 35.0513941,
+      "longitude": -80.7690217,
+      "officialUrl": null
+    },
     {
       "id": "us-mck-2060018189",
       "name": "AL'S BAR & GRILLE",
@@ -443,6 +519,25 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-20600110179",
+      "name": "THOUSAND HILLS LOSO",
+      "address": "4015 Craft St, Charlotte, NC 28217",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-25",
+        "score": 99.0,
+        "grade": "A",
+        "gradeDate": "2026-09-25",
+        "violations": []
+      },
+      "latitude": 35.1925116,
+      "longitude": -80.8752298,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-20600110400",
       "name": "WAFFLE HOUSE #705",
       "address": "6308 Banner Elk Dr, Charlotte, NC 28216",
@@ -478,6 +573,25 @@
       },
       "latitude": 35.1455621,
       "longitude": -80.9155424,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060017303",
+      "name": "CHICKEN BOX CAFE",
+      "address": "1331 W Sugar Creek Rd, Charlotte, NC 28203",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-24",
+        "score": 96.5,
+        "grade": "A",
+        "gradeDate": "2026-09-24",
+        "violations": []
+      },
+      "latitude": 35.280399,
+      "longitude": -80.79404,
       "officialUrl": null
     },
     {
@@ -725,6 +839,25 @@
       },
       "latitude": null,
       "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110125",
+      "name": "MCDONALD'S #6685",
+      "address": "1201 W Sugar Creek Rd, Charlotte, NC 28213",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-24",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-09-24",
+        "violations": []
+      },
+      "latitude": 35.2769785,
+      "longitude": -80.7939988,
       "officialUrl": null
     },
     {
@@ -17676,25 +17809,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060019333",
-      "name": "FIREHOUSE SUBS",
-      "address": "9826 Gilead Rd\u00a0C102, Huntersville, NC 28078",
-      "city": "Huntersville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-08-05",
-        "score": 96.5,
-        "grade": "A",
-        "gradeDate": "2026-08-05",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019331",
       "name": "FIREHOUSE SUBS",
       "address": "9335 Center Lake Dr, Charlotte, NC 28216",
@@ -17711,6 +17825,25 @@
       },
       "latitude": 35.3495382,
       "longitude": -80.8549097,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019333",
+      "name": "FIREHOUSE SUBS",
+      "address": "9826 Gilead Rd\u00a0C102, Huntersville, NC 28078",
+      "city": "Huntersville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-08-05",
+        "score": 96.5,
+        "grade": "A",
+        "gradeDate": "2026-08-05",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
       "officialUrl": null
     },
     {
@@ -23639,25 +23772,6 @@
       },
       "latitude": 35.2780985,
       "longitude": -80.7670267,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600110125",
-      "name": "MCDONALD'S #6685",
-      "address": "1201 W Sugar Creek Rd, Charlotte, NC 28213",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-07-20",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-07-20",
-        "violations": []
-      },
-      "latitude": 35.2769785,
-      "longitude": -80.7939988,
       "officialUrl": null
     },
     {
@@ -32607,25 +32721,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060018748",
-      "name": "PANERA BREAD #1966",
-      "address": "11630 Waverly Center Dr, Charlotte, NC 28277",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-25",
-        "score": 93.0,
-        "grade": "A",
-        "gradeDate": "2026-06-25",
-        "violations": []
-      },
-      "latitude": 35.0513941,
-      "longitude": -80.7690217,
       "officialUrl": null
     },
     {
@@ -42224,25 +42319,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060018178",
-      "name": "HOLIDAY INN EXPRESS & SUITES CHARLOTTE NORTH",
-      "address": "7230 Smith Corners Bv, Charlotte, NC 28269",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-05-28",
-        "score": 99.5,
-        "grade": "A",
-        "gradeDate": "2026-05-28",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019922",
       "name": "MCDONALDS #35337",
       "address": "720 Meridian Center Dr, Charlotte, NC 28212",
@@ -46062,25 +46138,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110041",
-      "name": "CHEX GRILL & WINGS",
-      "address": "400 S Tryon St\u00a0Ste R2, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-05-07",
-        "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2026-05-07",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111057",
       "name": "CLEAN JUICE DAVIDSON",
       "address": "605 Jetton St\u00a0Ste D, Davidson, NC 28036",
@@ -47199,25 +47256,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060012942",
-      "name": "BOJANGLES' #551",
-      "address": "9075 Lawyers Rd, Charlotte, NC 28227",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-30",
-        "score": 95.0,
-        "grade": "A",
-        "gradeDate": "2026-04-30",
-        "violations": []
-      },
-      "latitude": 35.1981505,
-      "longitude": -80.7178388,
       "officialUrl": null
     },
     {
@@ -51002,25 +51040,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060017303",
-      "name": "CHICKEN BOX CAFE",
-      "address": "1331 W Sugar Creek Rd, Charlotte, NC 28203",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-26",
-        "score": 96.5,
-        "grade": "A",
-        "gradeDate": "2026-03-26",
-        "violations": []
-      },
-      "latitude": 35.280399,
-      "longitude": -80.79404,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060017417",
       "name": "DAVINCI'S PIZZA",
       "address": "5700 University Pointe Bv, Charlotte, NC 28262",
@@ -51493,25 +51512,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600110679",
-      "name": "NOVANT HEALTH BALLANTYNE MEDICAL CTR FOOD SERVICE",
-      "address": "10905 Providence Rd West, Charlotte, NC 28277",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-23",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-03-23",
-        "violations": []
-      },
-      "latitude": 35.0412421,
-      "longitude": -80.8437841,
       "officialUrl": null
     },
     {
@@ -53317,25 +53317,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600110179",
-      "name": "THOUSAND HILLS LOSO",
-      "address": "4015 Craft St, Charlotte, NC 28217",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-05",
-        "score": 98.0,
-        "grade": "A",
-        "gradeDate": "2026-03-05",
-        "violations": []
-      },
-      "latitude": 35.1925116,
-      "longitude": -80.8752298,
       "officialUrl": null
     },
     {
@@ -56379,5 +56360,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-09-27T14:00:37.297599+00:00"
+  "geocodedAt": "2026-09-28T16:53:51.345640+00:00"
 }
