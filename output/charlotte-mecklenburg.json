@@ -1,10 +1,200 @@
 {
-  "fetchedAt": "2026-09-29T14:59:54.354070+00:00",
+  "fetchedAt": "2026-09-30T15:03:24.291135+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
   "count": 2966,
   "restaurants": [
+    {
+      "id": "us-mck-2060015764",
+      "name": "ANGIES DINER",
+      "address": "3658 Beatties Ford Rd, Charlotte, NC 28216",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-29",
+        "score": 99.0,
+        "grade": "A",
+        "gradeDate": "2026-09-29",
+        "violations": []
+      },
+      "latitude": 35.2840293,
+      "longitude": -80.8576962,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060018496",
+      "name": "INIZIO PIZZA NAPOLETANA",
+      "address": "10620 Providence Rd, Charlotte, NC 28277",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-29",
+        "score": 99.5,
+        "grade": "A",
+        "gradeDate": "2026-09-29",
+        "violations": []
+      },
+      "latitude": 35.0663072,
+      "longitude": -80.7723475,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060017094",
+      "name": "JERSEY MIKES SUBS",
+      "address": "20601 Torrence Chapel Rd\u00a0Suite 111, Cornelius, NC 28031",
+      "city": "Cornelius",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-29",
+        "score": 96.5,
+        "grade": "A",
+        "gradeDate": "2026-09-29",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111605",
+      "name": "KRISTYS CREOLE KITCHEN",
+      "address": "1300 South Bv\u00a0Ste 101-F, Charlotte, NC 28203",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-29",
+        "score": 96.0,
+        "grade": "A",
+        "gradeDate": "2026-09-29",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110617",
+      "name": "MARKET EXPRESS #17385",
+      "address": "5600 Brookshire Bv\u00a0B, Charlotte, NC 28216",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-29",
+        "score": 93.0,
+        "grade": "A",
+        "gradeDate": "2026-09-29",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111628",
+      "name": "MARKET ON MOREHEAD",
+      "address": "1001 Morehead Square Dr\u00a0Ste 100, Charlotte, NC 28203",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-29",
+        "score": 94.5,
+        "grade": "A",
+        "gradeDate": "2026-09-29",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019649",
+      "name": "RU SAN'S SUSHI & SEAFOOD",
+      "address": "2440 Park Rd, Charlotte, NC 28203",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-29",
+        "score": 97.0,
+        "grade": "A",
+        "gradeDate": "2026-09-29",
+        "violations": []
+      },
+      "latitude": 35.1976569,
+      "longitude": -80.8518725,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110845",
+      "name": "SIP HAPPENS BAR AND GRILL",
+      "address": "128 Brevard Ct, Charlotte, NC 28202",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-29",
+        "score": 93.5,
+        "grade": "A",
+        "gradeDate": "2026-09-29",
+        "violations": []
+      },
+      "latitude": 35.2258109,
+      "longitude": -80.8465268,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060014390",
+      "name": "SOUTH 21 JR",
+      "address": "6920 N Tryon St, Charlotte, NC 28213",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-29",
+        "score": 99.5,
+        "grade": "A",
+        "gradeDate": "2026-09-29",
+        "violations": []
+      },
+      "latitude": 35.2826016,
+      "longitude": -80.7640675,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060015420",
+      "name": "STARBUCKS COFFEE #10035",
+      "address": "9015 Pineville-Matthews Rd, Pineville, NC 28134",
+      "city": "Pineville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-29",
+        "score": 98.0,
+        "grade": "A",
+        "gradeDate": "2026-09-29",
+        "violations": []
+      },
+      "latitude": 35.0886867,
+      "longitude": -80.871794,
+      "officialUrl": null
+    },
     {
       "id": "us-mck-2060012942",
       "name": "BOJANGLES' #551",
@@ -310,6 +500,25 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-2060017572",
+      "name": "VIVA CHICKEN",
+      "address": "1617 Elizabeth Av, Charlotte, NC 28204",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-09-28",
+        "score": 97.5,
+        "grade": "A",
+        "gradeDate": "2026-09-28",
+        "violations": []
+      },
+      "latitude": 35.2134225,
+      "longitude": -80.8260188,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-2060018644",
       "name": "VIVA CHICKEN",
       "address": "4500 Park Rd\u00a0Suite 100, Charlotte, NC 28209",
@@ -329,22 +538,22 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060017572",
-      "name": "VIVA CHICKEN",
-      "address": "1617 Elizabeth Av, Charlotte, NC 28204",
+      "id": "us-mck-2060019153",
+      "name": "WRAPWAY/CAFE 49 ICE CREAM",
+      "address": "10221 University City Bv, Charlotte, NC 28213",
       "city": "Charlotte",
       "country": "US",
       "region": "Charlotte",
       "cuisine": "1 - Restaurant",
       "latestInspection": {
         "inspectionDate": "2026-09-28",
-        "score": 97.5,
+        "score": 96.5,
         "grade": "A",
         "gradeDate": "2026-09-28",
         "violations": []
       },
-      "latitude": 35.2134225,
-      "longitude": -80.8260188,
+      "latitude": null,
+      "longitude": null,
       "officialUrl": null
     },
     {
@@ -30976,25 +31185,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110617",
-      "name": "MARKET EXPRESS #17385",
-      "address": "5600 Brookshire Bv\u00a0B, Charlotte, NC 28216",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-30",
-        "score": 92.0,
-        "grade": "A",
-        "gradeDate": "2026-06-30",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111377",
       "name": "QAMARIA YEMENI COFFEE",
       "address": "9325 J W Clay Bv\u00a0Ste 223, Charlotte, NC 28262",
@@ -34222,25 +34412,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060015764",
-      "name": "ANGIES DINER",
-      "address": "3658 Beatties Ford Rd, Charlotte, NC 28216",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-23",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-06-23",
-        "violations": []
-      },
-      "latitude": 35.2840293,
-      "longitude": -80.8576962,
       "officialUrl": null
     },
     {
@@ -43497,25 +43668,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600111628",
-      "name": "MARKET ON MOREHEAD",
-      "address": "1001 Morehead Square Dr\u00a0Ste 100, Charlotte, NC 28203",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-05-21",
-        "score": 96.0,
-        "grade": "A",
-        "gradeDate": "2026-05-21",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110700",
       "name": "MONDAY NIGHT BREWING",
       "address": "2217 S Tryon St, Charlotte, NC 28203",
@@ -44229,25 +44381,6 @@
       "latestInspection": {
         "inspectionDate": "2026-05-19",
         "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2026-05-19",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019153",
-      "name": "WRAPWAY/CAFE 49 ICE CREAM",
-      "address": "10221 University City Bv, Charlotte, NC 28213",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-05-19",
-        "score": 95.5,
         "grade": "A",
         "gradeDate": "2026-05-19",
         "violations": []
@@ -47772,25 +47905,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060014390",
-      "name": "SOUTH 21 JR",
-      "address": "6920 N Tryon St, Charlotte, NC 28213",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-28",
-        "score": 97.5,
-        "grade": "A",
-        "gradeDate": "2026-04-28",
-        "violations": []
-      },
-      "latitude": 35.2826016,
-      "longitude": -80.7640675,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110913",
       "name": "VILLAGE ON MOREHEAD",
       "address": "727 E Morehead St, Charlotte, NC 28202",
@@ -48187,25 +48301,6 @@
       },
       "latitude": 35.2227605,
       "longitude": -80.8479514,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600111605",
-      "name": "KRISTYS CREOLE KITCHEN",
-      "address": "1300 South Bv\u00a0Ste 101-F, Charlotte, NC 28203",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-22",
-        "score": 97.5,
-        "grade": "A",
-        "gradeDate": "2026-04-22",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
       "officialUrl": null
     },
     {
@@ -48988,25 +49083,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060015420",
-      "name": "STARBUCKS COFFEE #10035",
-      "address": "9015 Pineville-Matthews Rd, Pineville, NC 28134",
-      "city": "Pineville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-15",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-04-15",
-        "violations": []
-      },
-      "latitude": 35.0886867,
-      "longitude": -80.871794,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110861",
       "name": "SUMAQ COFFEE",
       "address": "6259 South Bv, Charlotte, NC 28217",
@@ -49308,25 +49384,6 @@
       },
       "latitude": 35.1888238,
       "longitude": -80.8332959,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019649",
-      "name": "RU SAN'S SUSHI & SEAFOOD",
-      "address": "2440 Park Rd, Charlotte, NC 28203",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-13",
-        "score": 97.5,
-        "grade": "A",
-        "gradeDate": "2026-04-13",
-        "violations": []
-      },
-      "latitude": 35.1976569,
-      "longitude": -80.8518725,
       "officialUrl": null
     },
     {
@@ -51268,25 +51325,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060017094",
-      "name": "JERSEY MIKES SUBS",
-      "address": "20601 Torrence Chapel Rd\u00a0Suite 111, Cornelius, NC 28031",
-      "city": "Cornelius",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-24",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-03-24",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060018484",
       "name": "MCDONALDS #37272",
       "address": "7051 South Bv, Charlotte, NC 28217",
@@ -52956,25 +52994,6 @@
       },
       "latitude": 35.2942226,
       "longitude": -80.7431289,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060018496",
-      "name": "INIZIO PIZZA NAPOLETANA",
-      "address": "10620 Providence Rd, Charlotte, NC 28277",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-10",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-03-10",
-        "violations": []
-      },
-      "latitude": 35.0663072,
-      "longitude": -80.7723475,
       "officialUrl": null
     },
     {
@@ -55011,25 +55030,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110845",
-      "name": "SIP HAPPENS BAR AND GRILL",
-      "address": "128 Brevard Ct, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-01-02",
-        "score": 85.0,
-        "grade": "B",
-        "gradeDate": "2026-01-02",
-        "violations": []
-      },
-      "latitude": 35.2258109,
-      "longitude": -80.8465268,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600111195",
       "name": "EDEN DI ROSE CAFE",
       "address": "11500 E Independence Bv\u00a0Ste D, Matthews, NC 28105",
@@ -56360,5 +56360,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-09-29T15:00:01.308613+00:00"
+  "geocodedAt": "2026-09-30T15:03:32.502542+00:00"
 }
