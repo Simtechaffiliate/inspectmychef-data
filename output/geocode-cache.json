@@ -22574,5 +22574,9 @@
   "2824 N Davidson, Charlotte, NC 28205": {
     "lat": 35.2448285,
     "lng": -80.8092146
+  },
+  "2015 E Arbors Dr\u00a0240, Charlotte, NC 28262": {
+    "lat": null,
+    "lng": null
   }
 }
