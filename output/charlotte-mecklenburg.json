@@ -1,10 +1,86 @@
 {
-  "fetchedAt": "2026-10-07T15:39:41.716205+00:00",
+  "fetchedAt": "2026-10-08T15:41:59.697570+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
-  "count": 2967,
+  "count": 2968,
   "restaurants": [
+    {
+      "id": "us-mck-2060017853",
+      "name": "ANITA'S MEXICAN GRILL",
+      "address": "2904 Yorkmont Rd\u00a0Suite B, Charlotte, NC 28208",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-08",
+        "score": 99.0,
+        "grade": "A",
+        "gradeDate": "2026-10-08",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060010110",
+      "name": "BOJANGLES' #120",
+      "address": "8720 Pineville-Matthews Rd, Charlotte, NC 28226",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-08",
+        "score": 94.5,
+        "grade": "A",
+        "gradeDate": "2026-10-08",
+        "violations": []
+      },
+      "latitude": 35.0890322,
+      "longitude": -80.8676016,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110109",
+      "name": "HYATT CENTRIC",
+      "address": "3100 Apex Dr, Charlotte, NC 28211",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-08",
+        "score": 96.0,
+        "grade": "A",
+        "gradeDate": "2026-10-08",
+        "violations": []
+      },
+      "latitude": 35.1505496,
+      "longitude": -80.8265891,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060018937",
+      "name": "RHINO MARKET & DELI",
+      "address": "400 S Tryon St\u00a0Unit R3, Charlotte, NC 28202",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-08",
+        "score": 99.0,
+        "grade": "A",
+        "gradeDate": "2026-10-08",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
     {
       "id": "us-mck-2060018421",
       "name": "HARRIS TEETER #416 STARBUCKS",
@@ -25,6 +101,25 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-2060016497",
+      "name": "HARVEY`S",
+      "address": "13812 Cinnabar Pl, Huntersville, NC 28078",
+      "city": "Huntersville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-07",
+        "score": 97.0,
+        "grade": "A",
+        "gradeDate": "2026-10-07",
+        "violations": []
+      },
+      "latitude": 35.4132318,
+      "longitude": -80.8338778,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-2060017059",
       "name": "MUGS",
       "address": "5126 Park Rd\u00a0Suite 1D, Charlotte, NC 28209",
@@ -35,6 +130,63 @@
       "latestInspection": {
         "inspectionDate": "2026-10-07",
         "score": 97.5,
+        "grade": "A",
+        "gradeDate": "2026-10-07",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019862",
+      "name": "NORTHSTONE COUNTRY CLUB KITCHEN",
+      "address": "15801 Northstone Dr, Huntersville, NC 28078",
+      "city": "Huntersville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-07",
+        "score": 96.0,
+        "grade": "A",
+        "gradeDate": "2026-10-07",
+        "violations": []
+      },
+      "latitude": 35.4313338,
+      "longitude": -80.8182185,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111490",
+      "name": "PARK 51 CAFE",
+      "address": "10703 Park Rd Suite A, Charlotte, NC 28210",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-07",
+        "score": 94.0,
+        "grade": "A",
+        "gradeDate": "2026-10-07",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111745",
+      "name": "TROPICAL SMOOTHIE CAFE NC122",
+      "address": "9020 Albemarle Rd\u00a0Ste D, Charlotte, NC 28227",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-07",
+        "score": 98.5,
         "grade": "A",
         "gradeDate": "2026-10-07",
         "violations": []
@@ -36999,25 +37151,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060017853",
-      "name": "ANITA'S MEXICAN GRILL",
-      "address": "2904 Yorkmont Rd\u00a0Suite B, Charlotte, NC 28208",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-23",
-        "score": 99.5,
-        "grade": "A",
-        "gradeDate": "2026-06-23",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019974",
       "name": "BARCLAY AT SOUTHPARK",
       "address": "4801 Barclay Downs Dr, Charlotte, NC 28210",
@@ -38231,25 +38364,6 @@
       },
       "latitude": 35.4803051,
       "longitude": -80.8740048,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060016497",
-      "name": "HARVEY`S",
-      "address": "13812 Cinnabar Pl, Huntersville, NC 28078",
-      "city": "Huntersville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-18",
-        "score": 99.5,
-        "grade": "A",
-        "gradeDate": "2026-06-18",
-        "violations": []
-      },
-      "latitude": 35.4132318,
-      "longitude": -80.8338778,
       "officialUrl": null
     },
     {
@@ -40438,25 +40552,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110109",
-      "name": "HYATT CENTRIC",
-      "address": "3100 Apex Dr, Charlotte, NC 28211",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-11",
-        "score": 96.5,
-        "grade": "A",
-        "gradeDate": "2026-06-11",
-        "violations": []
-      },
-      "latitude": 35.1505496,
-      "longitude": -80.8265891,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110960",
       "name": "JASMINE GRILL",
       "address": "10601 Centrum Py, Pineville, NC 28134",
@@ -42525,25 +42620,6 @@
       },
       "latitude": 35.255368,
       "longitude": -80.9807359,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019862",
-      "name": "NORTHSTONE COUNTRY CLUB KITCHEN",
-      "address": "15801 Northstone Dr, Huntersville, NC 28078",
-      "city": "Huntersville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-05",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-06-05",
-        "violations": []
-      },
-      "latitude": 35.4313338,
-      "longitude": -80.8182185,
       "officialUrl": null
     },
     {
@@ -47886,25 +47962,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060018937",
-      "name": "RHINO MARKET & DELI",
-      "address": "400 S Tryon St\u00a0Unit R3, Charlotte, NC 28202",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-05-07",
-        "score": 95.0,
-        "grade": "A",
-        "gradeDate": "2026-05-07",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060017148",
       "name": "STOOGES PUB & GRUB",
       "address": "13230 Albemarle Rd, Mint Hill, NC 28227",
@@ -48795,25 +48852,6 @@
       },
       "latitude": 35.4997732,
       "longitude": -80.8650351,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060010110",
-      "name": "BOJANGLES' #120",
-      "address": "8720 Pineville-Matthews Rd, Charlotte, NC 28226",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-29",
-        "score": 95.0,
-        "grade": "A",
-        "gradeDate": "2026-04-29",
-        "violations": []
-      },
-      "latitude": 35.0890322,
-      "longitude": -80.8676016,
       "officialUrl": null
     },
     {
@@ -52095,25 +52133,6 @@
       "latestInspection": {
         "inspectionDate": "2026-03-23",
         "score": 94.0,
-        "grade": "A",
-        "gradeDate": "2026-03-23",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600111490",
-      "name": "PARK 51 CAFE",
-      "address": "10703 Park Rd Suite A, Charlotte, NC 28210",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-23",
-        "score": 95.5,
         "grade": "A",
         "gradeDate": "2026-03-23",
         "violations": []
@@ -56379,5 +56398,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-10-07T15:39:51.432504+00:00"
+  "geocodedAt": "2026-10-08T15:42:08.743795+00:00"
 }
