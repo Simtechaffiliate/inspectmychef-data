@@ -22590,5 +22590,17 @@
   "1816 N. Brevard St\u00a0Ste C, Charlotte, NC 28206": {
     "lat": null,
     "lng": null
+  },
+  "11000 Nations Ford Rd, Pineville, NC 28134": {
+    "lat": 35.1141962,
+    "lng": -80.9129185
+  },
+  "8948 Jm Keynes Dr\u00a0Ste 400, Charlotte, NC 28262": {
+    "lat": null,
+    "lng": null
+  },
+  "400 S Tryon St Ste R2, Charlotte, NC 28202": {
+    "lat": null,
+    "lng": null
   }
 }
