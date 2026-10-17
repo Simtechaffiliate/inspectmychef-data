@@ -22602,5 +22602,13 @@
   "400 S Tryon St Ste R2, Charlotte, NC 28202": {
     "lat": null,
     "lng": null
+  },
+  "5237 Albemarle Rd\u00a0102B, Charlotte, NC 28212": {
+    "lat": null,
+    "lng": null
+  },
+  "6329 Albemarle Rd, Charlotte, NC 28212": {
+    "lat": 35.2030437,
+    "lng": -80.7380524
   }
 }
