@@ -22618,5 +22618,9 @@
   "7945 N Tryon St\u00a0Ste 100, Charlotte, NC 28262": {
     "lat": null,
     "lng": null
+  },
+  "1730 Abbey Pl, Charlotte, NC 28029": {
+    "lat": 35.1705772,
+    "lng": -80.8464873
   }
 }
