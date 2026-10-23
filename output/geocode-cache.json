@@ -22622,5 +22622,17 @@
   "1730 Abbey Pl, Charlotte, NC 28029": {
     "lat": 35.1705772,
     "lng": -80.8464873
+  },
+  "12005 Lemmond Farm Dr\u00a0Ste 4, Charlotte, NC 28227": {
+    "lat": null,
+    "lng": null
+  },
+  "1515 Central Ave\u00a0Ste 101, Charlotte, NC 28205": {
+    "lat": null,
+    "lng": null
+  },
+  "1600 Windsor Run Ln, Matthews, NC 28105": {
+    "lat": 35.0834279,
+    "lng": -80.723027
   }
 }
