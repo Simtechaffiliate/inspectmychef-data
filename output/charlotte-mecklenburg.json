@@ -1,10 +1,67 @@
 {
-  "fetchedAt": "2026-10-25T13:21:58.379773+00:00",
+  "fetchedAt": "2026-10-26T15:26:12.401538+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
   "count": 2973,
   "restaurants": [
+    {
+      "id": "us-mck-2060017404",
+      "name": "BOJANGLES' #885",
+      "address": "335 Huntersville Gateway Bv, Huntersville, NC 28078",
+      "city": "Huntersville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-26",
+        "score": 98.0,
+        "grade": "A",
+        "gradeDate": "2026-10-26",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060016748",
+      "name": "CARNICERIA Y TAQUERIA JALISCO RESTAURANT",
+      "address": "6127 Albemarle Rd, Charlotte, NC 28212",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-26",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-10-26",
+        "violations": []
+      },
+      "latitude": 35.2034221,
+      "longitude": -80.7405617,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110843",
+      "name": "CHICK FIL A #04977",
+      "address": "901 N Wendover Rd, Charlotte, NC 28211",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-26",
+        "score": 99.0,
+        "grade": "A",
+        "gradeDate": "2026-10-26",
+        "violations": []
+      },
+      "latitude": 35.190808,
+      "longitude": -80.797055,
+      "officialUrl": null
+    },
     {
       "id": "us-mck-2060018324",
       "name": "ST JOSEPH VIETNAMESE CATHOLIC CHURCH",
@@ -690,6 +747,25 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-2060019464",
+      "name": "COTTAGE",
+      "address": "6701 N Tryon St\u00a0Suite D, Charlotte, NC 28213",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-22",
+        "score": 90.0,
+        "grade": "A",
+        "gradeDate": "2026-10-22",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-2060019909",
       "name": "CRU",
       "address": "3428 N Tryon St, Charlotte, NC 28206",
@@ -757,6 +833,25 @@
       "latestInspection": {
         "inspectionDate": "2026-10-22",
         "score": 96.5,
+        "grade": "A",
+        "gradeDate": "2026-10-22",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110675",
+      "name": "GOLDIES",
+      "address": "3601 South Bv, Charlotte, NC 28209",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-22",
+        "score": 98.5,
         "grade": "A",
         "gradeDate": "2026-10-22",
         "violations": []
@@ -1222,6 +1317,25 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-2060015273",
+      "name": "ZIO",
+      "address": "116 Middleton Dr, Charlotte, NC 28207",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-22",
+        "score": 99.5,
+        "grade": "A",
+        "gradeDate": "2026-10-22",
+        "violations": []
+      },
+      "latitude": 35.1975401,
+      "longitude": -80.8255926,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-20600110860",
       "name": "24K BISTRO",
       "address": "9330 Center Lake Dr\u00a0Ste 100, Charlotte, NC 28216",
@@ -1243,7 +1357,7 @@
     {
       "id": "us-mck-2060013577",
       "name": "AMERICAN AIRLINES TRAINING CENTER",
-      "address": "4800 Hangar Rd, Charlotte, NC 28208",
+      "address": "4200 Hangar Rd, Charlotte, NC 28208",
       "city": "Charlotte",
       "country": "US",
       "region": "Charlotte",
@@ -1255,8 +1369,8 @@
         "gradeDate": "2026-10-21",
         "violations": []
       },
-      "latitude": 35.2062106,
-      "longitude": -80.9407456,
+      "latitude": 35.2043367,
+      "longitude": -80.9427768,
       "officialUrl": null
     },
     {
@@ -1808,6 +1922,25 @@
       },
       "latitude": 35.4754796,
       "longitude": -80.8888029,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060015713",
+      "name": "ROOSTERS WOOD FIRED RESTAURANT AND WINE BAR",
+      "address": "6601 Carnegie Bv, Charlotte, NC 28211",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-10-21",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-10-21",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
       "officialUrl": null
     },
     {
@@ -43649,25 +43782,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060017404",
-      "name": "BOJANGLES' #885",
-      "address": "335 Huntersville Gateway Bv, Huntersville, NC 28078",
-      "city": "Huntersville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-22",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-06-22",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019215",
       "name": "BREWERS AT 4001 YANCEY",
       "address": "4001 Yancey Rd, Charlotte, NC 28217",
@@ -45530,25 +45644,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110675",
-      "name": "GOLDIES",
-      "address": "3601 South Bv, Charlotte, NC 28209",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-11",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-06-11",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110960",
       "name": "JASMINE GRILL",
       "address": "10601 Centrum Py, Pineville, NC 28134",
@@ -46306,25 +46401,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060015273",
-      "name": "ZIO",
-      "address": "116 Middleton Dr, Charlotte, NC 28207",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-09",
-        "score": 99.5,
-        "grade": "A",
-        "gradeDate": "2026-06-09",
-        "violations": []
-      },
-      "latitude": 35.1975401,
-      "longitude": -80.8255926,
       "officialUrl": null
     },
     {
@@ -49748,25 +49824,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060015713",
-      "name": "ROOSTERS WOOD FIRED RESTAURANT AND WINE BAR",
-      "address": "6601 Carnegie Bv, Charlotte, NC 28211",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-05-11",
-        "score": 96.0,
-        "grade": "A",
-        "gradeDate": "2026-05-11",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060015005",
       "name": "THANK YOU CAFE",
       "address": "10030 Gilead Rd, Huntersville, NC 28078",
@@ -51002,25 +51059,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060016748",
-      "name": "CARNICERIA Y TAQUERIA JALISCO RESTAURANT",
-      "address": "6127 Albemarle Rd, Charlotte, NC 28212",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-22",
-        "score": 95.5,
-        "grade": "A",
-        "gradeDate": "2026-04-22",
-        "violations": []
-      },
-      "latitude": 35.2034221,
-      "longitude": -80.7405617,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110918",
       "name": "MAIZ AGUA SAL TORTILLERIA",
       "address": "1018 Jay St\u00a0Ste 110, Charlotte, NC 28208",
@@ -51050,25 +51088,6 @@
       "latestInspection": {
         "inspectionDate": "2026-04-21",
         "score": 100.0,
-        "grade": "A",
-        "gradeDate": "2026-04-21",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019464",
-      "name": "COTTAGE",
-      "address": "6701 N Tryon St\u00a0Suite D, Charlotte, NC 28213",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-21",
-        "score": 91.5,
         "grade": "A",
         "gradeDate": "2026-04-21",
         "violations": []
@@ -52880,25 +52899,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600110843",
-      "name": "CHICK FIL A #04977",
-      "address": "901 N Wendover Rd, Charlotte, NC 28211",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-03-23",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-03-23",
-        "violations": []
-      },
-      "latitude": 35.190808,
-      "longitude": -80.797055,
       "officialUrl": null
     },
     {
@@ -56493,5 +56493,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-10-25T13:22:06.358337+00:00"
+  "geocodedAt": "2026-10-26T15:26:20.061760+00:00"
 }
