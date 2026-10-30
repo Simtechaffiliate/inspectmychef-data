@@ -22654,5 +22654,9 @@
   "131 E John St\u00a0Suite B, Matthews, NC 28105": {
     "lat": null,
     "lng": null
+  },
+  "11935 N Community House Rd, Charlotte, NC 28277": {
+    "lat": 35.0668182,
+    "lng": -80.8387075
   }
 }
