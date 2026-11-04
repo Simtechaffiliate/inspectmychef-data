@@ -22658,5 +22658,13 @@
   "11935 N Community House Rd, Charlotte, NC 28277": {
     "lat": 35.0668182,
     "lng": -80.8387075
+  },
+  "1620 Sardis Rd, Charlotte, NC 28209": {
+    "lat": 35.154368,
+    "lng": -80.7951166
+  },
+  "19905 W Catawba Av\u00a0Ste 105, Cornelius, NC 28031": {
+    "lat": null,
+    "lng": null
   }
 }
