@@ -22670,5 +22670,9 @@
   "11550 North Community House Rd, Charlotte, NC 28277": {
     "lat": 35.0596597,
     "lng": -80.8362268
+  },
+  "14231 Market Square Dr\u00a0Ste C1, Huntersville, NC 28078": {
+    "lat": null,
+    "lng": null
   }
 }
