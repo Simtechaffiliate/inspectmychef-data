@@ -1,10 +1,162 @@
 {
-  "fetchedAt": "2026-11-08T15:10:28.922442+00:00",
+  "fetchedAt": "2026-11-09T18:53:21.541656+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
-  "count": 2971,
+  "count": 2972,
   "restaurants": [
+    {
+      "id": "us-mck-2060019999",
+      "name": "BISCUITVILLE #202",
+      "address": "3060 Derita Rd, Charlotte, NC 28262",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-09",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-11-09",
+        "violations": []
+      },
+      "latitude": 35.3722385,
+      "longitude": -80.7336214,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060019750",
+      "name": "FIVE GUYS ARBORETUM",
+      "address": "8020 Providence Rd\u00a0Ste 600, Charlotte, NC 28277",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-09",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-11-09",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111663",
+      "name": "IMPERIAL TREASURE, THE",
+      "address": "1826 Windsor Square Dr, Matthews, NC 28105",
+      "city": "Matthews",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-09",
+        "score": 94.0,
+        "grade": "A",
+        "gradeDate": "2026-11-09",
+        "violations": []
+      },
+      "latitude": 35.1342461,
+      "longitude": -80.7095382,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110465",
+      "name": "JACK IN THE BOX #6804",
+      "address": "7000 W W T Harris Bv, Charlotte, NC 28269",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-09",
+        "score": 96.0,
+        "grade": "A",
+        "gradeDate": "2026-11-09",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110274",
+      "name": "RUSTYS DELI",
+      "address": "8512 Park Rd, Charlotte, NC 28210",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-09",
+        "score": 93.0,
+        "grade": "A",
+        "gradeDate": "2026-11-09",
+        "violations": []
+      },
+      "latitude": 35.1170295,
+      "longitude": -80.8560232,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060018024",
+      "name": "STARBUCKS COFFEE #11638",
+      "address": "1025 Morehead Medical Dr, Charlotte, NC 28204",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-09",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-11-09",
+        "violations": []
+      },
+      "latitude": 35.2057482,
+      "longitude": -80.8386929,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110772",
+      "name": "SUNFLOUR BAKING COMPANY NODA",
+      "address": "515 Jordan Pl, Charlotte, NC 28205",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-09",
+        "score": 97.5,
+        "grade": "A",
+        "gradeDate": "2026-11-09",
+        "violations": []
+      },
+      "latitude": 35.2426412,
+      "longitude": -80.8116886,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110254",
+      "name": "WAFFLE HOUSE",
+      "address": "14106 Statesville Rd, Huntersville, NC 28078",
+      "city": "Huntersville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-09",
+        "score": 97.5,
+        "grade": "A",
+        "gradeDate": "2026-11-09",
+        "violations": []
+      },
+      "latitude": 35.4084415,
+      "longitude": -80.8543385,
+      "officialUrl": null
+    },
     {
       "id": "us-mck-2060018418",
       "name": "AMELIE'S FRENCH BAKERY AND CAFE",
@@ -595,6 +747,25 @@
       "officialUrl": null
     },
     {
+      "id": "us-mck-20600111772",
+      "name": "MARISCOS NAYARIT",
+      "address": "6023 Albemarle Rd, Charlotte, NC 28212",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-05",
+        "score": 96.5,
+        "grade": "A",
+        "gradeDate": "2026-11-05",
+        "violations": []
+      },
+      "latitude": 35.2036162,
+      "longitude": -80.7425518,
+      "officialUrl": null
+    },
+    {
       "id": "us-mck-20600110657",
       "name": "MASA SUSHI ASIAN GRILL",
       "address": "12806 S Tryon St\u00a0# 220, Charlotte, NC 28273",
@@ -778,6 +949,25 @@
         "score": 99.5,
         "grade": "A",
         "gradeDate": "2026-11-05",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110561",
+      "name": "ATRIUM HEALTH CAROLINAS REHAB - MARKET COFFEE",
+      "address": "1100 Blythe Bv, Charlotte, NC 28023",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-04",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-11-04",
         "violations": []
       },
       "latitude": null,
@@ -1067,6 +1257,25 @@
       },
       "latitude": 35.154368,
       "longitude": -80.7951166,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110231",
+      "name": "MCDONALDS #563",
+      "address": "2745 Freedom Dr, Charlotte, NC 28208",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-04",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-11-04",
+        "violations": []
+      },
+      "latitude": 35.2382915,
+      "longitude": -80.8845199,
       "officialUrl": null
     },
     {
@@ -38614,25 +38823,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060019999",
-      "name": "BISCUITVILLE #202",
-      "address": "3060 Derita Rd, Charlotte, NC 28262",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-07-22",
-        "score": 97.5,
-        "grade": "A",
-        "gradeDate": "2026-07-22",
-        "violations": []
-      },
-      "latitude": 35.3722385,
-      "longitude": -80.7336214,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060014532",
       "name": "CHIN GARDEN",
       "address": "4420 The Plaza\u00a0Suite D, Charlotte, NC 28215",
@@ -45112,25 +45302,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110772",
-      "name": "SUNFLOUR BAKING COMPANY NODA",
-      "address": "515 Jordan Pl, Charlotte, NC 28205",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-07-02",
-        "score": 96.0,
-        "grade": "A",
-        "gradeDate": "2026-07-02",
-        "violations": []
-      },
-      "latitude": 35.2426412,
-      "longitude": -80.8116886,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060011257",
       "name": "CHEN FU RESTAURANT",
       "address": "9623 E Independence Bv, Matthews, NC 28105",
@@ -46268,25 +46439,6 @@
       },
       "latitude": 35.0406408,
       "longitude": -80.7799779,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600110561",
-      "name": "ATRIUM HEALTH CAROLINAS REHAB - MARKET COFFEE",
-      "address": "1100 Blythe Bv, Charlotte, NC 28023",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-25",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-06-25",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
       "officialUrl": null
     },
     {
@@ -47620,25 +47772,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110254",
-      "name": "WAFFLE HOUSE",
-      "address": "14106 Statesville Rd, Huntersville, NC 28078",
-      "city": "Huntersville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-18",
-        "score": 98.0,
-        "grade": "A",
-        "gradeDate": "2026-06-18",
-        "violations": []
-      },
-      "latitude": 35.4084415,
-      "longitude": -80.8543385,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110305",
       "name": "ALOFT CHARLOTTE AIRPORT",
       "address": "3928 Memorial Py, Charlotte, NC 28217",
@@ -48551,25 +48684,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110465",
-      "name": "JACK IN THE BOX #6804",
-      "address": "7000 W W T Harris Bv, Charlotte, NC 28269",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-10",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-06-10",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019169",
       "name": "LIFE TIME BARSTRO",
       "address": "11220 Golf Links Dr, Charlotte, NC 28277",
@@ -48662,25 +48776,6 @@
       },
       "latitude": 35.1508596,
       "longitude": -80.7723224,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600111663",
-      "name": "IMPERIAL TREASURE, THE",
-      "address": "1826 Windsor Square Dr, Matthews, NC 28105",
-      "city": "Matthews",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-09",
-        "score": 98.0,
-        "grade": "A",
-        "gradeDate": "2026-06-09",
-        "violations": []
-      },
-      "latitude": 35.1342461,
-      "longitude": -80.7095382,
       "officialUrl": null
     },
     {
@@ -48909,25 +49004,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600110274",
-      "name": "RUSTYS DELI",
-      "address": "8512 Park Rd, Charlotte, NC 28210",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-08",
-        "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-06-08",
-        "violations": []
-      },
-      "latitude": 35.1170295,
-      "longitude": -80.8560232,
       "officialUrl": null
     },
     {
@@ -49346,25 +49422,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600110231",
-      "name": "MCDONALDS #563",
-      "address": "2745 Freedom Dr, Charlotte, NC 28208",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-03",
-        "score": 98.0,
-        "grade": "A",
-        "gradeDate": "2026-06-03",
-        "violations": []
-      },
-      "latitude": 35.2382915,
-      "longitude": -80.8845199,
       "officialUrl": null
     },
     {
@@ -51515,25 +51572,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060018024",
-      "name": "STARBUCKS COFFEE #11638",
-      "address": "1025 Morehead Medical Dr, Charlotte, NC 28204",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-05-06",
-        "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2026-05-06",
-        "violations": []
-      },
-      "latitude": 35.2057482,
-      "longitude": -80.8386929,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060014652",
       "name": "STARBUCKS COFFEE #8572",
       "address": "8951 S Tryon St, Charlotte, NC 28273",
@@ -52861,25 +52899,6 @@
       },
       "latitude": 35.0981839,
       "longitude": -80.7808115,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060019750",
-      "name": "FIVE GUYS ARBORETUM",
-      "address": "8020 Providence Rd\u00a0Ste 600, Charlotte, NC 28277",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-04-06",
-        "score": 98.5,
-        "grade": "A",
-        "gradeDate": "2026-04-06",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
       "officialUrl": null
     },
     {
@@ -56455,5 +56474,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-11-08T15:10:34.589135+00:00"
+  "geocodedAt": "2026-11-09T18:53:29.528059+00:00"
 }
