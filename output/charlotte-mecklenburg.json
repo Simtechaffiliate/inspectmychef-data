@@ -1,10 +1,143 @@
 {
-  "fetchedAt": "2026-11-15T15:47:34.355988+00:00",
+  "fetchedAt": "2026-11-16T18:30:56.253601+00:00",
   "source": "public.cdpehs.com (NC state Environmental Health)",
   "jurisdiction": "us-nc-mecklenburg",
   "description": "Restaurant inspections from Mecklenburg County, NC.",
   "count": 2971,
   "restaurants": [
+    {
+      "id": "us-mck-2060018303",
+      "name": "BENNY PENNELLO'S",
+      "address": "2909 N Davidson St, Charlotte, NC 28205",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-16",
+        "score": 97.5,
+        "grade": "A",
+        "gradeDate": "2026-11-16",
+        "violations": []
+      },
+      "latitude": 35.245541,
+      "longitude": -80.8094762,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060014518",
+      "name": "FIREHOUSE SUBS #40",
+      "address": "1808 Windsor Square Dr, Matthews, NC 28105",
+      "city": "Matthews",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-16",
+        "score": 99.0,
+        "grade": "A",
+        "gradeDate": "2026-11-16",
+        "violations": []
+      },
+      "latitude": 35.1340286,
+      "longitude": -80.7100218,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111457",
+      "name": "LITTLE VILLAGE GRILL",
+      "address": "901 E 4Th St\u00a0Suite A, Charlotte, NC 28204",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-16",
+        "score": 98.0,
+        "grade": "A",
+        "gradeDate": "2026-11-16",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600110422",
+      "name": "NEIGHBORHOOD CAFE",
+      "address": "100 Huntersville-Concord Rd, Huntersville, NC 28078",
+      "city": "Huntersville",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-16",
+        "score": 94.0,
+        "grade": "A",
+        "gradeDate": "2026-11-16",
+        "violations": []
+      },
+      "latitude": 35.410729,
+      "longitude": -80.842792,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060011516",
+      "name": "PHILS DELI II",
+      "address": "4223 Providence Rd\u00a0Unit 6, Charlotte, NC 28211",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-16",
+        "score": 96.5,
+        "grade": "A",
+        "gradeDate": "2026-11-16",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060018112",
+      "name": "RHINO MARKET AND DELI",
+      "address": "1500 W Morehead St\u00a0Suite E, Charlotte, NC 28208",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-16",
+        "score": 98.0,
+        "grade": "A",
+        "gradeDate": "2026-11-16",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060017585",
+      "name": "ROYAL CAFE & CREPERIE",
+      "address": "131 Matthews Station St\u00a0Ste 1E, Matthews, NC 28105",
+      "city": "Matthews",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-16",
+        "score": 98.5,
+        "grade": "A",
+        "gradeDate": "2026-11-16",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
     {
       "id": "us-mck-2060017884",
       "name": "CHICK-FIL-A",
@@ -149,6 +282,25 @@
       "latestInspection": {
         "inspectionDate": "2026-11-13",
         "score": 94.0,
+        "grade": "A",
+        "gradeDate": "2026-11-13",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-2060017087",
+      "name": "HISSHO SUSHI - CONCOURSE D",
+      "address": "5501 Josh Birmingham Py\u00a0D2, Charlotte, NC 28208",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-13",
+        "score": 99.0,
         "grade": "A",
         "gradeDate": "2026-11-13",
         "violations": []
@@ -396,6 +548,25 @@
       "latestInspection": {
         "inspectionDate": "2026-11-13",
         "score": 95.5,
+        "grade": "A",
+        "gradeDate": "2026-11-13",
+        "violations": []
+      },
+      "latitude": null,
+      "longitude": null,
+      "officialUrl": null
+    },
+    {
+      "id": "us-mck-20600111798",
+      "name": "SLEEP INN UNIVERSITY PLACE",
+      "address": "8525 N Tryon St, Charlotte, NC 28262",
+      "city": "Charlotte",
+      "country": "US",
+      "region": "Charlotte",
+      "cuisine": "1 - Restaurant",
+      "latestInspection": {
+        "inspectionDate": "2026-11-13",
+        "score": 98.5,
         "grade": "A",
         "gradeDate": "2026-11-13",
         "violations": []
@@ -36733,25 +36904,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060017087",
-      "name": "HISSHO SUSHI - CONCOURSE D",
-      "address": "5501 Josh Birmingham Py\u00a0D2, Charlotte, NC 28208",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-07-31",
-        "score": 100.0,
-        "grade": "A",
-        "gradeDate": "2026-07-31",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110609",
       "name": "JINYA BARCLAY DOWNS",
       "address": "4401 Barclay Downs Dr\u00a0Ste 134, Charlotte, NC 28209",
@@ -37750,25 +37902,6 @@
       "latestInspection": {
         "inspectionDate": "2026-07-29",
         "score": 94.5,
-        "grade": "A",
-        "gradeDate": "2026-07-29",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060018112",
-      "name": "RHINO MARKET AND DELI",
-      "address": "1500 W Morehead St\u00a0Suite E, Charlotte, NC 28208",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-07-29",
-        "score": 96.5,
         "grade": "A",
         "gradeDate": "2026-07-29",
         "violations": []
@@ -45359,25 +45492,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-20600110422",
-      "name": "NEIGHBORHOOD CAFE",
-      "address": "100 Huntersville-Concord Rd, Huntersville, NC 28078",
-      "city": "Huntersville",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-07-07",
-        "score": 95.5,
-        "grade": "A",
-        "gradeDate": "2026-07-07",
-        "violations": []
-      },
-      "latitude": 35.410729,
-      "longitude": -80.842792,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060018700",
       "name": "NOTHING BUT NOODLES",
       "address": "12740 S Tryon St\u00a0Unit 100, Charlotte, NC 28273",
@@ -47905,25 +48019,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060018303",
-      "name": "BENNY PENNELLO'S",
-      "address": "2909 N Davidson St, Charlotte, NC 28205",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-23",
-        "score": 96.5,
-        "grade": "A",
-        "gradeDate": "2026-06-23",
-        "violations": []
-      },
-      "latitude": 35.245541,
-      "longitude": -80.8094762,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-2060019217",
       "name": "CAVA",
       "address": "16845 Birkdale Commons Py\u00a0Suite D, Huntersville, NC 28078",
@@ -48656,25 +48751,6 @@
       "latestInspection": {
         "inspectionDate": "2026-06-17",
         "score": 97.0,
-        "grade": "A",
-        "gradeDate": "2026-06-17",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060011516",
-      "name": "PHILS DELI II",
-      "address": "4223 Providence Rd\u00a0Unit 6, Charlotte, NC 28211",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-17",
-        "score": 95.5,
         "grade": "A",
         "gradeDate": "2026-06-17",
         "violations": []
@@ -49986,25 +50062,6 @@
       "latestInspection": {
         "inspectionDate": "2026-06-03",
         "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2026-06-03",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-20600111457",
-      "name": "LITTLE VILLAGE GRILL",
-      "address": "901 E 4Th St\u00a0Suite A, Charlotte, NC 28204",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-06-03",
-        "score": 98.0,
         "grade": "A",
         "gradeDate": "2026-06-03",
         "violations": []
@@ -51629,25 +51686,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060017585",
-      "name": "ROYAL CAFE & CREPERIE",
-      "address": "131 Matthews Station St\u00a0Ste 1E, Matthews, NC 28105",
-      "city": "Matthews",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-05-12",
-        "score": 99.0,
-        "grade": "A",
-        "gradeDate": "2026-05-12",
-        "violations": []
-      },
-      "latitude": null,
-      "longitude": null,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110130",
       "name": "MCDONALDS #37614 WAVERLY",
       "address": "11620 Waverly Center Dr, Charlotte, NC 28105",
@@ -51721,25 +51759,6 @@
       },
       "latitude": null,
       "longitude": null,
-      "officialUrl": null
-    },
-    {
-      "id": "us-mck-2060014518",
-      "name": "FIREHOUSE SUBS #40",
-      "address": "1808 Windsor Square Dr, Matthews, NC 28105",
-      "city": "Matthews",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2026-05-08",
-        "score": 98.0,
-        "grade": "A",
-        "gradeDate": "2026-05-08",
-        "violations": []
-      },
-      "latitude": 35.1340286,
-      "longitude": -80.7100218,
       "officialUrl": null
     },
     {
@@ -56246,25 +56265,6 @@
       "officialUrl": null
     },
     {
-      "id": "us-mck-2060016282",
-      "name": "QDOBA MEXICAN GRILL #103",
-      "address": "1600 E Woodlawn Rd, Charlotte, NC 28209",
-      "city": "Charlotte",
-      "country": "US",
-      "region": "Charlotte",
-      "cuisine": "1 - Restaurant",
-      "latestInspection": {
-        "inspectionDate": "2025-07-10",
-        "score": 90.5,
-        "grade": "A",
-        "gradeDate": "2025-07-10",
-        "violations": []
-      },
-      "latitude": 35.1716786,
-      "longitude": -80.8492615,
-      "officialUrl": null
-    },
-    {
       "id": "us-mck-20600110008",
       "name": "POPEYES #13483",
       "address": "6107 The Plaza, Charlotte, NC 28215",
@@ -56455,5 +56455,5 @@
       "officialUrl": null
     }
   ],
-  "geocodedAt": "2026-11-15T15:47:39.076858+00:00"
+  "geocodedAt": "2026-11-16T18:31:04.066189+00:00"
 }
